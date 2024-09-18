@@ -1,0 +1,14 @@
+name = "Homeward Bound"
+filename = "homeward-bound-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ywmtd0Ph/versions/2EVC7y4F/homeward-bound-1.0.jar"
+hash-format = "sha512"
+hash = "6b96a6d2cc3c2b521834583b9094f4773b95c3757e16e59b1fa9bc57c15162da666108acc3172c2f0d6073c0c11164fb3f8d8d66aadb6727de0e394a584a1784"
+
+[update]
+[update.modrinth]
+mod-id = "ywmtd0Ph"
+version = "2EVC7y4F"

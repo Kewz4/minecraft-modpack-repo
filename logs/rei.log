@@ -1,0 +1,378 @@
+[21:45:11] [Render thread/INFO] ========================================
+[21:45:11] [Render thread/INFO] Minecraft: 1.20.1
+[21:45:11] [Render thread/INFO] Side: client
+[21:45:11] [Render thread/INFO] Development: false
+[21:45:11] [Render thread/INFO] Version: 12.1.758
+[21:45:11] [Render thread/INFO] Loader:
+[21:45:11] [Render thread/INFO] - Fabric: 0.15.11
+[21:45:11] [Render thread/INFO] - Fabric API: 0.92.2+1.20.1
+[21:45:11] [Render thread/INFO] Dependencies:
+[21:45:11] [Render thread/INFO] - Cloth Config: 11.1.136
+[21:45:11] [Render thread/INFO] - Architectury: 9.2.14
+[21:45:11] [Render thread/INFO] Mixin: 0.8.5
+[21:45:11] [Render thread/INFO] OS: Windows 11 10.0 (amd64)
+[21:45:11] [Render thread/INFO] Java: 18.0.2.1 (Oracle Corporation)
+[21:45:11] [Render thread/INFO] ========================================
+[21:45:11] [Render thread/INFO] Mods:
+[21:45:11] [Render thread/INFO] - advancementinfo: 1.20-fabric0.83.0-1.4
+[21:45:11] [Render thread/INFO] - adventure-platform-fabric: 5.9.0
+[21:45:11] [Render thread/INFO] - appleskin: 2.5.1+mc1.20
+[21:45:11] [Render thread/INFO] - architectury: 9.2.14
+[21:45:11] [Render thread/INFO] - badgebox: 1.0.0
+[21:45:11] [Render thread/INFO] - balm-fabric: 7.3.9
+[21:45:11] [Render thread/INFO] - bedrockify: 1.9.1+mc1.20
+[21:45:11] [Render thread/INFO] - better_end_sky: 0.2.1+1.20
+[21:45:11] [Render thread/INFO] - betterpingdisplay: 1.1.1
+[21:45:11] [Render thread/INFO] - betterthirdperson: 1.9.0
+[21:45:11] [Render thread/INFO] - biolith: 1.0.0-beta.1
+[21:45:11] [Render thread/INFO] - blue_endless_jankson: 1.2.3
+[21:45:11] [Render thread/INFO] - bookshelf: 20.2.13
+[21:45:11] [Render thread/INFO] - borderlessmining: 1.1.8+1.20.1
+[21:45:11] [Render thread/INFO] - bwncr: 3.17.0
+[21:45:11] [Render thread/INFO] - caffeineconfig: 1.3.0+1.17
+[21:45:11] [Render thread/INFO] - cardinal-components-base: 5.2.2
+[21:45:11] [Render thread/INFO] - cardinal-components-entity: 5.2.2
+[21:45:11] [Render thread/INFO] - cavedust: 3.0.0
+[21:45:11] [Render thread/INFO] - cherishedworlds: 6.1.6+1.20.1
+[21:45:11] [Render thread/INFO] - cicada: 0.8.3+1.20.1
+[21:45:11] [Render thread/INFO] - cinderscapes: 4.0.10
+[21:45:11] [Render thread/INFO] - cinderscapes-client: 4.0.10
+[21:45:11] [Render thread/INFO] - cinderscapes-common: 4.0.10
+[21:45:11] [Render thread/INFO] - cinderscapes-worldgen: 4.0.10
+[21:45:11] [Render thread/INFO] - citresewn: 1.1.5+1.20.1
+[21:45:11] [Render thread/INFO] - citresewn-defaults: 1.1.5+1.20.1
+[21:45:11] [Render thread/INFO] - cleancut: 6.0+mc1.19.1-mc1.20.x
+[21:45:11] [Render thread/INFO] - cleardespawn: 1.1.15
+[21:45:11] [Render thread/INFO] - cloth-basic-math: 0.6.1
+[21:45:11] [Render thread/INFO] - cloth-config: 11.1.136
+[21:45:11] [Render thread/INFO] - cloth-config: 11.1.136
+[21:45:11] [Render thread/INFO] - cloud: 2.0.0-beta.2
+[21:45:11] [Render thread/INFO] - clumps: 12.0.0.4
+[21:45:11] [Render thread/INFO] - cobbled-shiny-particles: 1.0.6.1
+[21:45:11] [Render thread/INFO] - cobbledex: 1.1.0
+[21:45:11] [Render thread/INFO] - cobblefossil: 0.0.6
+[21:45:11] [Render thread/INFO] - cobbleit: 0.0.1
+[21:45:11] [Render thread/INFO] - cobblemon: 1.5.2+1.20.1
+[21:45:11] [Render thread/INFO] - cobblemon-field-moves: 1.5-fabric-1.0.1
+[21:45:11] [Render thread/INFO] - cobblemon-plantapricorns: 1.4-fabric-1.0.0
+[21:45:11] [Render thread/INFO] - cobblemon_armor_sets: 1.0.0
+[21:45:11] [Render thread/INFO] - cobblemon_capturexp: 1.5-fabric-1.0.1
+[21:45:11] [Render thread/INFO] - cobblemon_chaining: 1.5-fabric-1.0.1
+[21:45:11] [Render thread/INFO] - cobblemon_counter: 1.5-fabric-1.2.0
+[21:45:11] [Render thread/INFO] - cobblemon_helditems: 0.1.5
+[21:45:11] [Render thread/INFO] - cobblemon_move_inspector: 1.1.1
+[21:45:11] [Render thread/INFO] - cobblemon_spawn_notification: 1.5-fabric-1.0.0
+[21:45:11] [Render thread/INFO] - cobblemon_unimplementeditems: 1.5-fabric-1.2.0
+[21:45:11] [Render thread/INFO] - cobblemonarmors: 1.1.1
+[21:45:11] [Render thread/INFO] - cobblemonbreakouts: fabric-1.1.4-1.20.1
+[21:45:11] [Render thread/INFO] - cobblemonintegrations: 1.0.6
+[21:45:11] [Render thread/INFO] - cobblemonridingfabric: 1.2.5
+[21:45:11] [Render thread/INFO] - cobblemontrainers: 1.1.11+1.5.2
+[21:45:11] [Render thread/INFO] - cobblenav: 1.3.5
+[21:45:11] [Render thread/INFO] - cobblepedia: 0.6.7
+[21:45:11] [Render thread/INFO] - cobbreeding: 1.7.2
+[21:45:11] [Render thread/INFO] - collective: 7.84
+[21:45:11] [Render thread/INFO] - com_akuleshov7_ktoml-core-jvm: 0.5.1
+[21:45:11] [Render thread/INFO] - com_electronwill_night-config_core: 3.8.0
+[21:45:11] [Render thread/INFO] - com_electronwill_night-config_toml: 3.8.0
+[21:45:11] [Render thread/INFO] - com_eliotlash_mclib_mclib: 20
+[21:45:11] [Render thread/INFO] - com_github_keksuccino_japng: 0.5.3
+[21:45:11] [Render thread/INFO] - com_github_rtyley_animated-gif-lib-for-java: animated-gif-lib-1.7
+[21:45:11] [Render thread/INFO] - com_moandjiezana_toml_toml4j: 0.7.2
+[21:45:11] [Render thread/INFO] - com_teamresourceful_yabn: 1.0.3
+[21:45:11] [Render thread/INFO] - com_twelvemonkeys_common_common-image: 3.10.0
+[21:45:11] [Render thread/INFO] - com_twelvemonkeys_common_common-io: 3.10.0
+[21:45:11] [Render thread/INFO] - com_twelvemonkeys_common_common-lang: 3.10.0
+[21:45:11] [Render thread/INFO] - com_twelvemonkeys_imageio_imageio-core: 3.10.0
+[21:45:11] [Render thread/INFO] - com_twelvemonkeys_imageio_imageio-metadata: 3.10.0
+[21:45:11] [Render thread/INFO] - com_twelvemonkeys_imageio_imageio-webp: 3.10.0
+[21:45:11] [Render thread/INFO] - com_velocitypowered_velocity-native: 3.2.0-SNAPSHOT
+[21:45:11] [Render thread/INFO] - conditional-mixin: 0.3.2
+[21:45:11] [Render thread/INFO] - continuity: 3.0.0-beta.5+1.20.1
+[21:45:11] [Render thread/INFO] - controlling: 12.0.2
+[21:45:11] [Render thread/INFO] - corgilib: 4.0.3.2
+[21:45:11] [Render thread/INFO] - craftingtweaks: 18.2.5
+[21:45:11] [Render thread/INFO] - craftpresence: 2.5.0
+[21:45:11] [Render thread/INFO] - cristellib: 1.1.5
+[21:45:11] [Render thread/INFO] - crowdin-translate: 1.4+1.19.3
+[21:45:11] [Render thread/INFO] - ctrl-q: 1.9
+[21:45:11] [Render thread/INFO] - cull-less-leaves: 1.3.0
+[21:45:11] [Render thread/INFO] - dismountentity: 3.5
+[21:45:11] [Render thread/INFO] - dynamic_fps: 3.7.1
+[21:45:11] [Render thread/INFO] - dynamiccrosshair: 7.4.4+1.20
+[21:45:11] [Render thread/INFO] - eatinganimationid: 1.20+1.9.61
+[21:45:11] [Render thread/INFO] - elementa: 665
+[21:45:11] [Render thread/INFO] - enchdesc: 17.1.18
+[21:45:11] [Render thread/INFO] - enhanced_attack_indicator: 1.0.4+1.20
+[21:45:11] [Render thread/INFO] - entityculling: 1.7.0
+[21:45:11] [Render thread/INFO] - error_notifier: 1.0.9
+[21:45:11] [Render thread/INFO] - essential: 1.3.4.1
+[21:45:11] [Render thread/INFO] - essential-container: 1.0.0
+[21:45:11] [Render thread/INFO] - essential-loader: 1.2.3
+[21:45:11] [Render thread/INFO] - expanded_ecosphere: 3.2.4
+[21:45:11] [Render thread/INFO] - fabric-api: 0.92.2+1.20.1
+[21:45:11] [Render thread/INFO] - fabric-api: 0.92.2+1.20.1
+[21:45:11] [Render thread/INFO] - fabric-api-base: 0.4.31+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-api-lookup-api-v1: 1.6.36+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-biome-api-v1: 13.0.13+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-block-api-v1: 1.0.11+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-block-view-api-v2: 1.0.1+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-blockrenderlayer-v1: 1.1.41+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-client-tags-api-v1: 1.1.2+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-command-api-v1: 1.2.34+f71b366f77
+[21:45:11] [Render thread/INFO] - fabric-command-api-v2: 2.2.13+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-commands-v0: 0.2.51+df3654b377
+[21:45:11] [Render thread/INFO] - fabric-containers-v0: 0.1.64+df3654b377
+[21:45:11] [Render thread/INFO] - fabric-content-registries-v0: 4.0.11+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-convention-tags-v1: 1.5.5+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-crash-report-info-v1: 0.2.19+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-data-attachment-api-v1: 1.0.0+de0fd6d177
+[21:45:11] [Render thread/INFO] - fabric-data-generation-api-v1: 12.3.4+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-dimensions-v1: 2.1.54+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-entity-events-v1: 1.6.0+1c78457f77
+[21:45:11] [Render thread/INFO] - fabric-events-interaction-v0: 0.6.2+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-events-lifecycle-v0: 0.2.63+df3654b377
+[21:45:11] [Render thread/INFO] - fabric-game-rule-api-v1: 1.0.40+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-item-api-v1: 2.1.28+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-item-group-api-v1: 4.0.12+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-key-binding-api-v1: 1.0.37+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-keybindings-v0: 0.2.35+df3654b377
+[21:45:11] [Render thread/INFO] - fabric-language-kotlin: 1.12.1+kotlin.2.0.20
+[21:45:11] [Render thread/INFO] - fabric-lifecycle-events-v1: 2.2.22+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-loot-api-v2: 1.2.1+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-loot-tables-v1: 1.1.45+9e7660c677
+[21:45:11] [Render thread/INFO] - fabric-message-api-v1: 5.1.9+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-mining-level-api-v1: 2.1.50+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-model-loading-api-v1: 1.0.3+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-models-v0: 0.4.2+9386d8a777
+[21:45:11] [Render thread/INFO] - fabric-networking-api-v1: 1.3.11+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-networking-v0: 0.3.51+df3654b377
+[21:45:11] [Render thread/INFO] - fabric-object-builder-api-v1: 11.1.3+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-particles-v1: 1.1.2+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-permissions-api-v0: 0.2-SNAPSHOT
+[21:45:11] [Render thread/INFO] - fabric-recipe-api-v1: 1.0.21+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-registry-sync-v0: 2.3.3+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-renderer-api-v1: 3.2.1+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-renderer-indigo: 1.5.2+85287f9f77
+[21:45:11] [Render thread/INFO] - fabric-renderer-registries-v1: 3.2.46+df3654b377
+[21:45:11] [Render thread/INFO] - fabric-rendering-data-attachment-v1: 0.3.37+92a0d36777
+[21:45:11] [Render thread/INFO] - fabric-rendering-fluids-v1: 3.0.28+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-rendering-v0: 1.1.49+df3654b377
+[21:45:11] [Render thread/INFO] - fabric-rendering-v1: 3.0.8+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-resource-conditions-api-v1: 2.3.8+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-resource-loader-v0: 0.11.10+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-screen-api-v1: 2.0.8+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-screen-handler-api-v1: 1.3.30+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-sound-api-v1: 1.0.13+1802ada577
+[21:45:11] [Render thread/INFO] - fabric-transfer-api-v1: 3.3.5+8dd72ea377
+[21:45:11] [Render thread/INFO] - fabric-transitive-access-wideners-v1: 4.3.1+1802ada577
+[21:45:11] [Render thread/INFO] - fabricloader: 0.15.11
+[21:45:11] [Render thread/INFO] - fallingleaves: 1.15.6
+[21:45:11] [Render thread/INFO] - fancymenu: 3.2.3
+[21:45:11] [Render thread/INFO] - faster_entity_animations: 1.6
+[21:45:11] [Render thread/INFO] - ferritecore: 6.0.1
+[21:45:11] [Render thread/INFO] - feytweaks: 1.20-1.2.7
+[21:45:11] [Render thread/INFO] - fiber: 0.23.0-2
+[21:45:11] [Render thread/INFO] - fightorflight: 0.5.0
+[21:45:11] [Render thread/INFO] - forgeconfigapiport: 8.0.0
+[21:45:11] [Render thread/INFO] - gardens_of_the_dead: 4.0.1
+[21:45:11] [Render thread/INFO] - geckolib: 4.4.9
+[21:45:11] [Render thread/INFO] - global-datapack: 1.2
+[21:45:11] [Render thread/INFO] - gts: 2.3.1
+[21:45:11] [Render thread/INFO] - highlight: 2.0.1
+[21:45:11] [Render thread/INFO] - highlighter: 1.1.9
+[21:45:11] [Render thread/INFO] - homeward-bound: 1.0
+[21:45:11] [Render thread/INFO] - iceberg: 1.1.18
+[21:45:11] [Render thread/INFO] - immediatelyfast: 1.2.21+1.20.4
+[21:45:11] [Render thread/INFO] - impactor: 5.2.7+1.20.1
+[21:45:11] [Render thread/INFO] - impactor-command-api: 5.2.5+1.20.1-SNAPSHOT
+[21:45:11] [Render thread/INFO] - incendium: 5.3.5
+[21:45:11] [Render thread/INFO] - indium: 1.0.34+mc1.20.1
+[21:45:11] [Render thread/INFO] - invmove: 0.8.4
+[21:45:11] [Render thread/INFO] - io_github_douira_glsl-transformer: 2.0.1
+[21:45:11] [Render thread/INFO] - io_leangen_geantyref_geantyref: 1.3.15
+[21:45:11] [Render thread/INFO] - iris: 1.7.2+mc1.20.1
+[21:45:11] [Render thread/INFO] - jankson: 5.0.1+j1.2.2
+[21:45:11] [Render thread/INFO] - java: 18
+[21:45:11] [Render thread/INFO] - kirin: 1.15.6+1.20.1
+[21:45:11] [Render thread/INFO] - konkrete: 1.8.1
+[21:45:11] [Render thread/INFO] - krypton: 0.2.3
+[21:45:11] [Render thread/INFO] - kuma_api: 20.1.8
+[21:45:11] [Render thread/INFO] - lambdynlights: 2.3.2+1.20.1
+[21:45:11] [Render thread/INFO] - languagereload: 1.6.1+1.20.1
+[21:45:11] [Render thread/INFO] - lazydfu: 0.1.3
+[21:45:11] [Render thread/INFO] - legendarytooltips: 1.4.5
+[21:45:11] [Render thread/INFO] - letmedespawn: 1.2.1
+[21:45:11] [Render thread/INFO] - libgui: 8.0.1+1.20
+[21:45:11] [Render thread/INFO] - libninepatch: 1.2.0
+[21:45:11] [Render thread/INFO] - lithium: 0.11.2
+[21:45:11] [Render thread/INFO] - longerchathistory: 1.4
+[21:45:11] [Render thread/INFO] - lootballs: 1.1.4
+[21:45:11] [Render thread/INFO] - lootr: 0.7.33.81
+[21:45:11] [Render thread/INFO] - macos_input_fixes: 1.7
+[21:45:11] [Render thread/INFO] - make_bubbles_pop: 0.3.0-fabric
+[21:45:11] [Render thread/INFO] - malilib: 0.16.3
+[21:45:11] [Render thread/INFO] - megamons: 1.5.0+1.20.1-forge+fabric-75b66fa
+[21:45:11] [Render thread/INFO] - melody: 1.0.3
+[21:45:11] [Render thread/INFO] - memoryleakfix: 1.1.5
+[21:45:11] [Render thread/INFO] - midnightlib: 1.4.1
+[21:45:11] [Render thread/INFO] - minecraft: 1.20.1
+[21:45:11] [Render thread/INFO] - mixinextras: 0.3.5
+[21:45:11] [Render thread/INFO] - mixinsquared: 0.1.1
+[21:45:11] [Render thread/INFO] - modmenu: 7.2.2
+[21:45:11] [Render thread/INFO] - monsters_in_the_closet: 1.0.3+1.20
+[21:45:11] [Render thread/INFO] - more_cobblemon_tweaks: 0.5.1
+[21:45:11] [Render thread/INFO] - moreculling: 1.20.4-0.24.0
+[21:45:11] [Render thread/INFO] - mr_cobblemon_legendarystructures: 1.1.1
+[21:45:11] [Render thread/INFO] - music_control: 1.8.2+1.20.1
+[21:45:11] [Render thread/INFO] - mythsandlegends: 1.5-HOTFIX
+[21:45:11] [Render thread/INFO] - naturescompass: 1.20.1-2.2.3-fabric
+[21:45:11] [Render thread/INFO] - net_kyori_adventure-api: 4.14.0
+[21:45:11] [Render thread/INFO] - net_kyori_adventure-key: 4.14.0
+[21:45:11] [Render thread/INFO] - net_kyori_adventure-nbt: 4.14.0
+[21:45:11] [Render thread/INFO] - net_kyori_adventure-platform-api: 4.3.0
+[21:45:11] [Render thread/INFO] - net_kyori_adventure-text-logger-slf4j: 4.14.0
+[21:45:11] [Render thread/INFO] - net_kyori_adventure-text-minimessage: 4.14.0
+[21:45:11] [Render thread/INFO] - net_kyori_adventure-text-serializer-ansi: 4.14.0
+[21:45:11] [Render thread/INFO] - net_kyori_adventure-text-serializer-gson: 4.14.0
+[21:45:11] [Render thread/INFO] - net_kyori_adventure-text-serializer-json: 4.14.0
+[21:45:11] [Render thread/INFO] - net_kyori_adventure-text-serializer-legacy: 4.14.0
+[21:45:11] [Render thread/INFO] - net_kyori_adventure-text-serializer-plain: 4.14.0
+[21:45:11] [Render thread/INFO] - net_kyori_ansi: 1.0.2
+[21:45:11] [Render thread/INFO] - net_kyori_event-api: 5.0.0-SNAPSHOT
+[21:45:11] [Render thread/INFO] - net_kyori_examination-api: 1.3.0
+[21:45:11] [Render thread/INFO] - net_kyori_examination-string: 1.3.0
+[21:45:11] [Render thread/INFO] - net_lenni0451_reflect: 1.3.4
+[21:45:11] [Render thread/INFO] - net_lostluma_battery: 1.1.0
+[21:45:11] [Render thread/INFO] - netherportalfix: 13.0.1
+[21:45:11] [Render thread/INFO] - notenoughanimations: 1.7.6
+[21:45:11] [Render thread/INFO] - org_anarres_jcpp: 1.4.14
+[21:45:11] [Render thread/INFO] - org_antlr_antlr4-runtime: 4.13.1
+[21:45:11] [Render thread/INFO] - org_incendo_cloud-annotations: 2.0.0-beta.2
+[21:45:11] [Render thread/INFO] - org_incendo_cloud-brigadier: 2.0.0-beta.2
+[21:45:11] [Render thread/INFO] - org_incendo_cloud-core: 2.0.0-beta.2
+[21:45:11] [Render thread/INFO] - org_incendo_cloud-minecraft-extras: 2.0.0-beta.2
+[21:45:11] [Render thread/INFO] - org_incendo_cloud-minecraft-modded-common-fabric-repack_: 2.0.0-beta.2
+[21:45:11] [Render thread/INFO] - org_incendo_cloud-processors-common: 1.0.0-beta.1
+[21:45:11] [Render thread/INFO] - org_incendo_cloud-processors-confirmation: 1.0.0-beta.1
+[21:45:11] [Render thread/INFO] - org_incendo_cloud-services: 2.0.0-beta.2
+[21:45:11] [Render thread/INFO] - org_jetbrains_annotations: 23.0.0
+[21:45:11] [Render thread/INFO] - org_jetbrains_kotlin_kotlin-reflect: 2.0.20
+[21:45:11] [Render thread/INFO] - org_jetbrains_kotlin_kotlin-stdlib: 2.0.20
+[21:45:11] [Render thread/INFO] - org_jetbrains_kotlin_kotlin-stdlib-jdk7: 2.0.20
+[21:45:11] [Render thread/INFO] - org_jetbrains_kotlin_kotlin-stdlib-jdk8: 2.0.20
+[21:45:11] [Render thread/INFO] - org_jetbrains_kotlinx_atomicfu-jvm: 0.25.0
+[21:45:11] [Render thread/INFO] - org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm: 1.8.1
+[21:45:11] [Render thread/INFO] - org_jetbrains_kotlinx_kotlinx-coroutines-jdk8: 1.8.1
+[21:45:11] [Render thread/INFO] - org_jetbrains_kotlinx_kotlinx-datetime-jvm: 0.6.1
+[21:45:11] [Render thread/INFO] - org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm: 0.5.3
+[21:45:11] [Render thread/INFO] - org_jetbrains_kotlinx_kotlinx-io-core-jvm: 0.5.3
+[21:45:11] [Render thread/INFO] - org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm: 1.7.1
+[21:45:11] [Render thread/INFO] - org_jetbrains_kotlinx_kotlinx-serialization-core-jvm: 1.7.1
+[21:45:11] [Render thread/INFO] - org_jetbrains_kotlinx_kotlinx-serialization-json-jvm: 1.7.1
+[21:45:11] [Render thread/INFO] - org_quiltmc_parsers_gson: 0.2.1
+[21:45:11] [Render thread/INFO] - org_quiltmc_parsers_json: 0.2.1
+[21:45:11] [Render thread/INFO] - owo: 0.11.2+1.20
+[21:45:11] [Render thread/INFO] - panorama_screens: 1.0+fabric+mc1.20
+[21:45:11] [Render thread/INFO] - patchouli: 1.20.1-84-FABRIC
+[21:45:11] [Render thread/INFO] - placeholder-api: 2.1.3+1.20.1
+[21:45:11] [Render thread/INFO] - porting_lib_accessors: 2.3.0+1.20.1
+[21:45:11] [Render thread/INFO] - porting_lib_attributes: 2.3.0+1.20.1
+[21:45:11] [Render thread/INFO] - porting_lib_common: 2.3.0+1.20.1
+[21:45:11] [Render thread/INFO] - porting_lib_core: 2.3.0+1.20.1
+[21:45:11] [Render thread/INFO] - porting_lib_extensions: 2.3.0+1.20.1
+[21:45:11] [Render thread/INFO] - porting_lib_fluids: 2.3.0+1.20.1
+[21:45:11] [Render thread/INFO] - porting_lib_lazy_registration: 2.3.0+1.20.1
+[21:45:11] [Render thread/INFO] - porting_lib_loot: 2.3.0+1.20.1
+[21:45:11] [Render thread/INFO] - porting_lib_model_loader: 2.3.0+1.20.1
+[21:45:11] [Render thread/INFO] - porting_lib_networking: 2.3.0+1.20.1
+[21:45:11] [Render thread/INFO] - porting_lib_tool_actions: 2.3.0+1.20.1
+[21:45:11] [Render thread/INFO] - porting_lib_transfer: 2.3.0+1.20.1
+[21:45:11] [Render thread/INFO] - presencefootsteps: 1.9.4+1.20.1
+[21:45:11] [Render thread/INFO] - pride: 1.2.0+1.19.4
+[21:45:11] [Render thread/INFO] - prism: 1.0.5
+[21:45:11] [Render thread/INFO] - raised: 4.0.0
+[21:45:11] [Render thread/INFO] - rctmod: 0.11.1-alpha
+[21:45:11] [Render thread/INFO] - reach-entity-attributes: 2.4.0
+[21:45:11] [Render thread/INFO] - reeses-sodium-options: 1.7.2+mc1.20.1-build.101
+[21:45:11] [Render thread/INFO] - resourcefullib: 2.0.7
+[21:45:11] [Render thread/INFO] - roughlyenoughitems: 12.1.758
+[21:45:11] [Render thread/INFO] - roughlyenoughprofessions: 2.0.2
+[21:45:11] [Render thread/INFO] - roughlysearchable: 2.6.0+1.20.1
+[21:45:11] [Render thread/INFO] - searchables: 1.0.3
+[21:45:11] [Render thread/INFO] - seasons: 2.3+1.20
+[21:45:11] [Render thread/INFO] - seasonsextras: 1.2-BETA+1.20
+[21:45:11] [Render thread/INFO] - seasonsterraformerscompat: 1.0
+[21:45:11] [Render thread/INFO] - showmeyourskin: 1.9.0+1.20
+[21:45:11] [Render thread/INFO] - shulkerboxtooltip: 4.0.4+1.20.1
+[21:45:11] [Render thread/INFO] - simpletms: 1.1.2
+[21:45:11] [Render thread/INFO] - slimyfloor: 1.20-1.2.8
+[21:45:11] [Render thread/INFO] - sodium: 0.5.11+mc1.20.1
+[21:45:11] [Render thread/INFO] - sodium-extra: 0.5.4+mc1.20.1-build.115
+[21:45:11] [Render thread/INFO] - sophisticatedbackpacks: 3.19.5+mc1.20.1-SNAPSHOT-build.104
+[21:45:11] [Render thread/INFO] - sophisticatedcore: 0.5.109+mc1.20.1-SNAPSHOT-build.104
+[21:45:11] [Render thread/INFO] - spruceui: 5.0.0+1.20
+[21:45:11] [Render thread/INFO] - sspb: 3.4.0
+[21:45:11] [Render thread/INFO] - starlight: 1.1.2+fabric.dbc156f
+[21:45:11] [Render thread/INFO] - stendhal: 1.4.1-1.20
+[21:45:11] [Render thread/INFO] - superflatworldnoslimes: 3.4
+[21:45:11] [Render thread/INFO] - team_reborn_energy: 3.0.0
+[21:45:11] [Render thread/INFO] - terrablender: 3.0.0.167
+[21:45:11] [Render thread/INFO] - terraform-biome-remapper-api-v1: 7.0.3
+[21:45:11] [Render thread/INFO] - terraform-shapes-api-v1: 7.0.3
+[21:45:11] [Render thread/INFO] - terraform-surfaces-api-v1: 7.0.3
+[21:45:11] [Render thread/INFO] - terraform-wood-api-v1: 7.0.3
+[21:45:11] [Render thread/INFO] - terralith: 2.4.8
+[21:45:11] [Render thread/INFO] - titlefixer: 1.0+1.20.1
+[21:45:11] [Render thread/INFO] - toolstats: 16.0.9
+[21:45:11] [Render thread/INFO] - tooltipfix: 1.1.1-1.20
+[21:45:11] [Render thread/INFO] - tpaplusplus: 1.6.0-1.20.x-UNTESTED-BETA-3
+[21:45:11] [Render thread/INFO] - unilib: 1.0.2
+[21:45:11] [Render thread/INFO] - universalcraft: 362
+[21:45:11] [Render thread/INFO] - vigilance: 306
+[21:45:11] [Render thread/INFO] - visuality: 0.7.1+1.20
+[21:45:11] [Render thread/INFO] - watching: 1.9.2
+[21:45:11] [Render thread/INFO] - waterdripsound: 1.19-0.3.2
+[21:45:11] [Render thread/INFO] - waveycapes: 1.4.9
+[21:45:11] [Render thread/INFO] - weaponmaster_ydm: 4.2.3
+[21:45:11] [Render thread/INFO] - wherearemytms: 2.1.2-hotfix
+[21:45:11] [Render thread/INFO] - wwoo: 2.0.0
+[21:45:11] [Render thread/INFO] - xaerominimap: 24.4.0
+[21:45:11] [Render thread/INFO] - xaeroworldmap: 1.39.0
+[21:45:11] [Render thread/INFO] - yaclx: 1.12+1.20.2
+[21:45:11] [Render thread/INFO] - yet_another_config_lib_v3: 3.5.0+1.20.1-fabric
+[21:45:11] [Render thread/INFO] - yosbr: 0.1.2
+[21:45:11] [Render thread/INFO] - zoomify: 2.14.0+1.20.1
+[21:45:11] [Render thread/INFO] ========================================
+[21:45:11] [Render thread/DEBUG] [REI] Added filtering rule [roughlyenoughitems:search]: INSTANCE
+[21:45:11] [Render thread/DEBUG] [REI] Added filtering rule [roughlyenoughitems:manual]: INSTANCE
+[21:45:11] [Render thread/DEBUG] [REI] Added filtering rule [roughlyenoughitems:basic]: INSTANCE
+[21:45:12] [Render thread/INFO] [REI] Config loaded
+[21:45:12] [Render thread/DEBUG] [REI] Config saved
+[21:45:12] [Render thread/DEBUG] [REI] Config saved
+[21:45:12] [Render thread/DEBUG] [REI] Config saved
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider REICompat [sophisticatedbackpacks] for REIPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider OwoReiPlugin [owo] for REIPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[21:45:12] [Render thread/DEBUG] [REI] Added filtering rule [roughlyenoughitems:hidden_from_recipe_viewers]: INSTANCE
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider REPClientPlugin [roughlyenoughprofessions] for REIPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider REIClientCompat [sophisticatedbackpacks] for REIPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider REIClientCompat [sophisticatedcore] for REIPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider REICompat [sophisticatedbackpacks] for REIServerPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[21:45:12] [Render thread/INFO] [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[21:45:17] [Render thread/INFO] [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIClientPlugin
+[21:45:17] [Render thread/INFO] [REI] Registered plugin provider OwoReiPlugin [owo] for REIClientPlugin
+[21:45:17] [Render thread/INFO] [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIClientPlugin
+[21:45:17] [Render thread/INFO] [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[21:45:17] [Render thread/INFO] [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIClientPlugin
+[21:45:17] [Render thread/INFO] [REI] Registered plugin provider REPClientPlugin [roughlyenoughprofessions] for REIClientPlugin
+[21:45:17] [Render thread/INFO] [REI] Registered plugin provider REIClientCompat [sophisticatedbackpacks] for REIClientPlugin
+[21:45:17] [Render thread/INFO] [REI] Registered plugin provider REIClientCompat [sophisticatedcore] for REIClientPlugin

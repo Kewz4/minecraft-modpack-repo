@@ -1,0 +1,28 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "cobblepedia:cobblepedia": {
+      "viewedEntries": [
+        "cobblepedia:magnet"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "megamons:megamons_guide": {
+      "viewedEntries": [
+        "megamons:getting_started/locate_geode",
+        "megamons:getting_started/overview",
+        "megamons:getting_started/key_stone",
+        "megamons:mega_stones/mega_ore"
+      ],
+      "bookmarks": [
+        {
+          "entry": "megamons:getting_started/key_stone",
+          "page": 0
+        }
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

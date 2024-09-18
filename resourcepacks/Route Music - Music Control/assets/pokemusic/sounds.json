@@ -1,0 +1,567 @@
+{
+
+"route104": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route104",
+        "stream": true
+     }
+    ]
+   },
+
+"route113": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route113",
+        "stream": true
+     }
+    ]
+   },
+
+"route120": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route120",
+        "stream": true
+     }
+    ]
+   },
+   
+"route205": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route205",
+        "stream": true
+     }
+    ]
+   },
+   
+"route206": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route206",
+        "stream": true
+     }
+    ]
+   },
+
+"route209": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route209",
+        "stream": true
+     }
+    ]
+   },
+
+"route216": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route216",
+        "stream": true
+     }
+    ]
+   },
+
+"route216n": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route216n",
+        "stream": true
+     }
+    ]
+   },
+
+"route225": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route225",
+        "stream": true
+     }
+    ]
+   },
+
+"route228": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route228",
+        "stream": true
+     }
+    ]
+   },
+
+"route228n": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route228n",
+        "stream": true
+     }
+    ]
+   },
+
+"route2bw": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route2bw",
+        "stream": true
+     }
+    ]
+   },
+
+"route6bw": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route6bw",
+        "stream": true
+     }
+    ]
+   },
+
+"route10bw": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/route10bw",
+        "stream": true
+     }
+    ]
+   },
+
+"crimsonmire2": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/crimsonmire2",
+        "stream": true
+     }
+    ]
+   },
+
+"eastprov": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/eastprov",
+        "stream": true
+     }
+    ]
+   },
+
+"southprov": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/southprov",
+        "stream": true
+     }
+    ]
+   },
+
+"areazero": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/areazero",
+        "stream": true
+     }
+    ]
+   },
+    
+"mtcornet": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/mtcornet",
+        "stream": true
+     }
+    ]
+   },
+
+"mtpyreint": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/mtpyreint",
+        "stream": true
+     }
+    ]
+   },
+
+"mtpyre": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/mtpyre",
+        "stream": true
+     }
+    ]
+   },
+
+"meteorfalls": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/meteorfalls",
+        "stream": true
+     }
+    ]
+   },
+
+"icec": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/icec",
+        "stream": true
+     }
+    ]
+   },
+
+"galarmines": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/galarmines",
+        "stream": true
+     }
+    ]
+   },
+
+"chargestonec": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/chargestonec",
+        "stream": true
+     }
+    ]
+   },
+ 
+ "lakeverity": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/lakeverity",
+        "stream": true
+     }
+    ]
+   },
+ 
+"eternaf": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/eternaf",
+        "stream": true
+     }
+    ]
+   },
+   
+ "viridianf": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/viridianf",
+        "stream": true
+     }
+    ]
+   },
+
+ "lostlornf": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/lostlornf",
+        "stream": true
+     }
+    ]
+   },
+
+ "bamboojung": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/bamboojung",
+        "stream": true
+     }
+    ]
+   },
+   
+  "evergrande": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/evergrande",
+        "stream": true
+     }
+    ]
+   },
+
+ "celestialtower": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/celestialtower",
+        "stream": true
+
+     }
+    ]
+   },
+  
+ "dreamyard": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/dreamyard",
+        "stream": true
+     }
+    ]
+   },
+
+  "joinaven": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/joinaven",
+        "stream": true
+     }
+    ]
+   },
+   
+"rustboro": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/rustboro",
+        "stream": true
+     }
+    ]
+   },
+
+  "virbank": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/virbank",
+        "stream": true
+     }
+    ]
+   },
+ 
+  "driftveil": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/driftveil",
+        "stream": true
+     }
+    ]
+   },
+
+  "montenevera": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/montenevera",
+        "stream": true
+     }
+    ]
+   },
+
+  "cascarrafa": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/cascarrafa",
+        "stream": true
+     }
+    ]
+   },
+
+  "surfkanto": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/surfkanto",
+        "stream": true
+     }
+    ]
+   },
+
+  "surfjohto": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/surfjohto",
+        "stream": true
+     }
+    ]
+   },
+
+   "scaryhouse": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/scaryhouse",
+        "stream": true
+     }
+    ]
+   },
+ 
+ "titlebw": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/titlebw",
+        "stream": true
+     }
+    ]
+   },
+
+ "titledppt": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/titledppt",
+        "stream": true
+     }
+    ]
+   },
+
+ "titlepokegems": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/titlepokegems",
+        "stream": true
+     }
+    ]
+   },
+ 
+    "turo_sada": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/turo_sada",
+        "stream": true
+     }
+    ]
+   },
+ 
+    "distortion": 
+  {
+    "category" : "music",
+    "sounds": 
+	[
+	 {
+        "name": "pokemusic:music/game/distortion",
+        "stream": true
+     }
+    ]
+   } 
+}

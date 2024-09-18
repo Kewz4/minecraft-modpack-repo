@@ -1,0 +1,14 @@
+name = "Cobblemon Armor Sets "
+filename = "cobblemon_armor_sets_FABRIC-2.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "753aa55e97a3469b52ee66e71445800c85866ac1"
+
+[update]
+[update.curseforge]
+file-id = 5297960
+project-id = 855428

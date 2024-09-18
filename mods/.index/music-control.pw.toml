@@ -1,0 +1,14 @@
+name = "Music Control"
+filename = "music_control-1.8.2+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/BSVvfllR/versions/5c6HpJfx/music_control-1.8.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "415b77e70d223904a70c496a54c18b9721917d048cf31a84756b4995383bace1c174d33411920be97e8207a57daf9c35377c1525cb01ead984efc0ff101ba6d2"
+
+[update]
+[update.modrinth]
+mod-id = "BSVvfllR"
+version = "5c6HpJfx"

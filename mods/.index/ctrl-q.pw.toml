@@ -1,0 +1,14 @@
+name = "Ctrl Q"
+filename = "ctrlq-fabric-mc1.19.3+-1.9.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Dxv5rpnB/versions/N4g6q0kL/ctrlq-fabric-mc1.19.3%2B-1.9.jar"
+hash-format = "sha512"
+hash = "771672dc43003ee07c4b2dc0c14c9f4669f6de1ccb50776cac8fad613371a14763613cc052b4842ca8b3567bda14b8aa18405adcb80de9eeb2435b33e6f4152d"
+
+[update]
+[update.modrinth]
+mod-id = "Dxv5rpnB"
+version = "N4g6q0kL"

@@ -1,0 +1,14 @@
+name = "Essential Mod"
+filename = "essential_1-3-4-1_fabric_1-20-1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/F3o43GGz/essential_1-3-4-1_fabric_1-20-1.jar"
+hash-format = "sha512"
+hash = "9da1745b4c047c07db5ff76c408f010a99fb20f05d37e16f16601e2c0086a7c61f69c26841a000e264080baf50d10e53c527dd86c5e31711f983794792279cc2"
+
+[update]
+[update.modrinth]
+mod-id = "k2ZPuTBm"
+version = "F3o43GGz"

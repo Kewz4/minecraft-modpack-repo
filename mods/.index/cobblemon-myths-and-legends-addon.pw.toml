@@ -1,0 +1,14 @@
+name = "Myths and Legends [Cobblemon Addon]"
+filename = "Myths_and_Legends-1.5-HOTFIX-fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/CaOWby9K/versions/FRKJQ1UC/Myths_and_Legends-1.5-HOTFIX-fabric.jar"
+hash-format = "sha512"
+hash = "20739c500f38fbffbf15497b19e0e97c5ac1d8cd859975701e9d5701b594ba0a24318a55589e32e8ed5d02036fcea0e5a6437419b8c81f925320fdc7b05178b8"
+
+[update]
+[update.modrinth]
+mod-id = "CaOWby9K"
+version = "FRKJQ1UC"

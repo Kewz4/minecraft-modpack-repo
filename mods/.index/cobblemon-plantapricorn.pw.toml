@@ -1,0 +1,14 @@
+name = "Cobblemon - Plant Apricorns"
+filename = "cobblemon-plantapricorns-1.4-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/X2uJsd1M/versions/zYb7zVHd/cobblemon-plantapricorns-1.4-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "b4ba8ecf5bafa5e93acf860cdfe1f6866e00a1a8e040d555df23c669e0e79ab37e151784972fe272d2e9d29eaf92f0a77ff1ac85e6f3e4317bae788c27394ec1"
+
+[update]
+[update.modrinth]
+mod-id = "X2uJsd1M"
+version = "zYb7zVHd"

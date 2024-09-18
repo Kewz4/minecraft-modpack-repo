@@ -1,0 +1,14 @@
+name = "Sophisticated Backpacks (Unoffical Fabric port)"
+filename = "sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.104.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ouNrBQtq/versions/lbSRE8Te/sophisticatedbackpacks-3.19.5%2Bmc1.20.1-SNAPSHOT-build.104.jar"
+hash-format = "sha512"
+hash = "b9fbd1f8550c8be9cd12161a403cafafbd6f4ec774cc2ea7e64844014232a75a6cc3ca7f913a3e59116c4ff2c2c9b219bcb8840db65b814d493a5ccfa5f03070"
+
+[update]
+[update.modrinth]
+mod-id = "ouNrBQtq"
+version = "lbSRE8Te"
