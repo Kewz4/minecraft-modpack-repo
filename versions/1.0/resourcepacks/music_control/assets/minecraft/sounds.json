@@ -1,0 +1,997 @@
+{
+	"music.overworld.old_growth_spruce_taiga": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route225",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/crimsonmire2",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.snowy_taiga": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route216n",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route228n",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/cascarrafa",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/crimsonmire2",
+				"stream": true
+			}
+		]
+	},
+	"music.end": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/areazero",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/distortion",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.deep_ocean": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/surfkanto",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/surfjohto",
+				"stream": true
+			}
+		]
+	},
+	"music.nether.crimson_forest": {
+		"category": "music",
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.forest": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route225",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route205",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route206",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.taiga": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route225",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/crimsonmire2",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.windswept_savanna": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route113",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route10bw",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.lukewarm_ocean": {
+		"category": "music",
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.old_growth_birch_forest": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route225",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/crimsonmire2",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.jagged_peaks": {
+		"category": "music",
+		"replace": true,
+		"sounds": []
+	},
+	"music_disc.mellohi": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/mellohi",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.pigstep": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/pigstep",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.snowy_slopes": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route216n",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route228n",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/cascarrafa",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/crimsonmire2",
+				"stream": true
+			}
+		]
+	},
+	"music.game": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route225",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/southprov",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/cascarrafa",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/crimsonmire2",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route104",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.mall": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/mall",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.desert": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/eastprov",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route113",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route10bw",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.deep_dark": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/scaryhouse",
+				"stream": true
+			}
+		]
+	},
+	"music.nether.soul_sand_valley": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/mtpyreint",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/scaryhouse",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.otherside": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/otherside",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.deep_cold_ocean": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/surfjohto",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.jungle": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/viridianf",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/lostlornf",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.frozen_peaks": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route216n",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/eternaf",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.beach": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route104",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.frozen_river": {
+		"category": "music",
+		"replace": true,
+		"sounds": []
+	},
+	"music.credits": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:music/game/end/credits",
+				"stream": true
+			}
+		]
+	},
+	"music.nether.warped_forest": {
+		"category": "music",
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.badlands": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route113",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/mtpyre",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.sparse_jungle": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/viridianf",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/lostlornf",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.stony_shore": {
+		"category": "music",
+		"replace": true,
+		"sounds": []
+	},
+	"music_disc.relic": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/relic",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.ice_spikes": {
+		"category": "music",
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.windswept_forest": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route205",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route206",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.blocks": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/blocks",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.swamp": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/viridianf",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/lostlornf",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.eroded_badlands": {
+		"category": "music",
+		"replace": true,
+		"sounds": []
+	},
+	"music_disc.chirp": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/chirp",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.cherry_grove": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/lakeverity",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.sunflower_plains": {
+		"category": "music",
+		"replace": true,
+		"sounds": []
+	},
+	"music.nether.nether_wastes": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/mtpyreint",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/meteorfalls",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.dark_forest": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/dreamyard",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/eternaf",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/cascarrafa",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.ward": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/ward",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.old_growth_pine_taiga": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route225",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/crimsonmire2",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.13": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/13",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.far": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/far",
+				"stream": true
+			}
+		]
+	},
+	"music.creative": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/rustboro",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/joinaven",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/driftveil",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/virbank",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.deep_frozen_ocean": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/surfjohto",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.mangrove_swamp": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/viridianf",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/lostlornf",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.11": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/11",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.wait": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/wait",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.bamboo_jungle": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/viridianf",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/lostlornf",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/bamboojung",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.warm_ocean": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/surfjohto",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.grove": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:music/game/piano3",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/wending",
+				"stream": true
+			},
+			{
+				"name": "minecraft:music/game/nuance2",
+				"stream": true
+			}
+		]
+	},
+	"music.nether.basalt_deltas": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/mtpyreint",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/meteorfalls",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/mtcornet",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.windswept_hills": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route206",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route209",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.savanna": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route113",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route10bw",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.dripstone_caves": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/icec",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/chargestonec",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/mtcornet",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.ocean": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/surfkanto",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/surfjohto",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.lush_caves": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/icec",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/celestialtower",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/galarmines",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.mushroom_fields": {
+		"category": "music",
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.flower_forest": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/evergrande",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/crimsonmire2",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route216",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.savanna_plateau": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route113",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route10bw",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.5": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/5",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.wooded_badlands": {
+		"category": "music",
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.river": {
+		"category": "music",
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.frozen_ocean": {
+		"category": "music",
+		"replace": true,
+		"sounds": []
+	},
+	"music.overworld.cold_ocean": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/surfjohto",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.meadow": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route6bw",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route2bw",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.windswept_gravelly_hills": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route206",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route104",
+				"stream": true
+			}
+		]
+	},
+	"music.menu": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/driftveil",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/titlepokegems",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/titlebw",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/titledppt",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.stal": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/stal",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.strad": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/strad",
+				"stream": true
+			}
+		]
+	},
+	"music.under_water": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/surfkanto",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/surfjohto",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.birch_forest": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route205",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/crimsonmire2",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.stony_peaks": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route206",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route209",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.snowy_plains": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route225",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/cascarrafa",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route228",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/crimsonmire2",
+				"stream": true
+			}
+		]
+	},
+	"music_disc.cat": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "minecraft:records/cat",
+				"stream": true
+			}
+		]
+	},
+	"music.dragon": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/turo_sada",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.plains": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/route6bw",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/southprov",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route2bw",
+				"stream": true
+			}
+		]
+	},
+	"music.overworld.snowy_beach": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "pokemusic:music/game/cascarrafa",
+				"stream": true
+			},
+			{
+				"name": "pokemusic:music/game/route104",
+				"stream": true
+			}
+		]
+	}
+}

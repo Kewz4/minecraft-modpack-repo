@@ -1,0 +1,1061 @@
+[21:44:27] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.15.11
+[21:44:27] [ForkJoinPool-1-worker-6/WARN]: Mod cobblemonbreakouts uses the version fabric-1.1.4-1.20.1 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:44:27] [ForkJoinPool-1-worker-10/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:44:28] [main/WARN]: Warnings were found!
+ - Mod 'Expanded Ecosphere' (expanded_ecosphere) 3.2.4 conflicts with any version of mod 'William Wythers' Overhauled Overworld' (wwoo), which is present with the following versions: 2.0.0!
+	 - While this won't prevent you from starting the game, the developer(s) of mod 'Expanded Ecosphere' (expanded_ecosphere) have found that this combination may cause issues. You should remove one of the mods or check for updates that resolve the issue.
+ - Mod 'LambDynamicLights' (lambdynlights) 2.3.2+1.20.1 recommends version 0.19.1 or later of quilt_loader, which is missing!
+	 - You should install version 0.19.1 or later of quilt_loader for the optimal experience.
+ - Mod 'More Culling' (moreculling) 1.20.4-0.24.0 conflicts with any version of mod 'Cull Less Leaves' (cull-less-leaves), which is present with the following versions: 1.3.0!
+	 - While this won't prevent you from starting the game, the developer(s) of mod 'More Culling' (moreculling) have found that this combination may cause issues. You should remove one of the mods or check for updates that resolve the issue.
+[21:44:28] [main/INFO]: Loading 322 mods:
+	- advancementinfo 1.20-fabric0.83.0-1.4
+	- appleskin 2.5.1+mc1.20
+	- architectury 9.2.14
+	- badgebox 1.0.0
+	- balm-fabric 7.3.9
+	   \-- kuma_api 20.1.8
+	- bedrockify 1.9.1+mc1.20
+	   \-- panorama_screens 1.0+fabric+mc1.20
+	- better_end_sky 0.2.1+1.20
+	- betterpingdisplay 1.1.1
+	- betterthirdperson 1.9.0
+	- bookshelf 20.2.13
+	- borderlessmining 1.1.8+1.20.1
+	- bwncr 3.17.0
+	- cavedust 3.0.0
+	   \-- kirin 1.15.6+1.20.1
+	- cherishedworlds 6.1.6+1.20.1
+	- cicada 0.8.3+1.20.1
+	- cinderscapes 4.0.10
+	   |-- biolith 1.0.0-beta.1
+	   |-- cinderscapes-client 4.0.10
+	   |-- cinderscapes-common 4.0.10
+	   |-- cinderscapes-worldgen 4.0.10
+	   |-- terraform-biome-remapper-api-v1 7.0.3
+	   |-- terraform-shapes-api-v1 7.0.3
+	   |-- terraform-surfaces-api-v1 7.0.3
+	   \-- terraform-wood-api-v1 7.0.3
+	- citresewn 1.1.5+1.20.1
+	   \-- citresewn-defaults 1.1.5+1.20.1
+	- cleancut 6.0+mc1.19.1-mc1.20.x
+	- cleardespawn 1.1.15
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
+	- clumps 12.0.0.4
+	- cobbled-shiny-particles 1.0.6.1
+	- cobbledex 1.1.0
+	- cobblefossil 0.0.6
+	- cobbleit 0.0.1
+	- cobblemon 1.5.2+1.20.1
+	- cobblemon-field-moves 1.5-fabric-1.0.1
+	- cobblemon-plantapricorns 1.4-fabric-1.0.0
+	- cobblemon_armor_sets 1.0.0
+	- cobblemon_capturexp 1.5-fabric-1.0.1
+	- cobblemon_chaining 1.5-fabric-1.0.1
+	- cobblemon_counter 1.5-fabric-1.2.0
+	- cobblemon_helditems 0.1.5
+	- cobblemon_move_inspector 1.1.1
+	- cobblemon_spawn_notification 1.5-fabric-1.0.0
+	- cobblemon_unimplementeditems 1.5-fabric-1.2.0
+	- cobblemonarmors 1.1.1
+	- cobblemonbreakouts fabric-1.1.4-1.20.1
+	- cobblemonintegrations 1.0.6
+	- cobblemonridingfabric 1.2.5
+	- cobblemontrainers 1.1.11+1.5.2
+	   \-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	- cobblenav 1.3.5
+	   \-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	- cobblepedia 0.6.7
+	- cobbreeding 1.7.2
+	- collective 7.84
+	- continuity 3.0.0-beta.5+1.20.1
+	- controlling 12.0.2
+	- corgilib 4.0.3.2
+	   |-- com_electronwill_night-config_core 3.8.0
+	   \-- com_electronwill_night-config_toml 3.8.0
+	- craftingtweaks 18.2.5
+	- craftpresence 2.5.0
+	   \-- fabric-resource-loader-v0 0.11.10+1802ada577
+	- cristellib 1.1.5
+	   \-- blue_endless_jankson 1.2.3
+	- ctrl-q 1.9
+	- cull-less-leaves 1.3.0
+	- dismountentity 3.5
+	- dynamic_fps 3.7.1
+	   \-- net_lostluma_battery 1.1.0
+	- dynamiccrosshair 7.4.4+1.20
+	   \-- yaclx 1.12+1.20.2
+	- eatinganimationid 1.20+1.9.61
+	- enchdesc 17.1.18
+	- enhanced_attack_indicator 1.0.4+1.20
+	- entityculling 1.7.0
+	- essential-container 1.0.0
+	   \-- essential-loader 1.2.3
+	- expanded_ecosphere 3.2.4
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabric-language-kotlin 1.12.1+kotlin.2.0.20
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.0.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.0.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.0.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.0.20
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.25.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.8.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.8.1
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.5.3
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.5.3
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.7.1
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.7.1
+	- fabricloader 0.15.11
+	   \-- mixinextras 0.3.5
+	- fallingleaves 1.15.6
+	- fancymenu 3.2.3
+	   |-- com_github_keksuccino_japng 0.5.3
+	   \-- com_github_rtyley_animated-gif-lib-for-java animated-gif-lib-1.7
+	- faster_entity_animations 1.6
+	- ferritecore 6.0.1
+	- feytweaks 1.20-1.2.7
+	   \-- midnightlib 1.4.1
+	- fightorflight 0.5.0
+	- forgeconfigapiport 8.0.0
+	- gardens_of_the_dead 4.0.1
+	   \-- terrablender 3.0.0.167
+	- geckolib 4.4.9
+	   \-- com_eliotlash_mclib_mclib 20
+	- global-datapack 1.2
+	- gts 2.3.1
+	- highlight 2.0.1
+	   \-- resourcefullib 2.0.7
+	        \-- com_teamresourceful_yabn 1.0.3
+	- highlighter 1.1.9
+	- homeward-bound 1.0
+	   \-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	- iceberg 1.1.18
+	- immediatelyfast 1.2.21+1.20.4
+	   \-- net_lenni0451_reflect 1.3.4
+	- impactor 5.2.7+1.20.1
+	   |-- adventure-platform-fabric 5.9.0
+	   |    |-- net_kyori_adventure-platform-api 4.3.0
+	   |    |-- net_kyori_adventure-text-serializer-ansi 4.14.0
+	   |    \-- net_kyori_ansi 1.0.2
+	   |-- cloud 2.0.0-beta.2
+	   |    |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   |    |-- io_leangen_geantyref_geantyref 1.3.15
+	   |    |-- org_incendo_cloud-brigadier 2.0.0-beta.2
+	   |    |-- org_incendo_cloud-core 2.0.0-beta.2
+	   |    |-- org_incendo_cloud-minecraft-modded-common-fabric-repack_ 2.0.0-beta.2
+	   |    \-- org_incendo_cloud-services 2.0.0-beta.2
+	   |-- impactor-command-api 5.2.5+1.20.1-SNAPSHOT
+	   |-- io_leangen_geantyref_geantyref 1.3.15
+	   |-- net_kyori_adventure-api 4.14.0
+	   |-- net_kyori_adventure-key 4.14.0
+	   |-- net_kyori_adventure-nbt 4.14.0
+	   |-- net_kyori_adventure-text-logger-slf4j 4.14.0
+	   |-- net_kyori_adventure-text-minimessage 4.14.0
+	   |-- net_kyori_adventure-text-serializer-gson 4.14.0
+	   |-- net_kyori_adventure-text-serializer-json 4.14.0
+	   |-- net_kyori_adventure-text-serializer-legacy 4.14.0
+	   |-- net_kyori_adventure-text-serializer-plain 4.14.0
+	   |-- net_kyori_event-api 5.0.0-SNAPSHOT
+	   |-- net_kyori_examination-api 1.3.0
+	   |-- net_kyori_examination-string 1.3.0
+	   |-- org_incendo_cloud-annotations 2.0.0-beta.2
+	   |-- org_incendo_cloud-minecraft-extras 2.0.0-beta.2
+	   |-- org_incendo_cloud-processors-common 1.0.0-beta.1
+	   |-- org_incendo_cloud-processors-confirmation 1.0.0-beta.1
+	   \-- placeholder-api 2.1.3+1.20.1
+	- incendium 5.3.5
+	- indium 1.0.34+mc1.20.1
+	- invmove 0.8.4
+	- iris 1.7.2+mc1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- io_github_douira_glsl-transformer 2.0.1
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.13.1
+	- java 18
+	- konkrete 1.8.1
+	- krypton 0.2.3
+	   \-- com_velocitypowered_velocity-native 3.2.0-SNAPSHOT
+	- lambdynlights 2.3.2+1.20.1
+	   |-- pride 1.2.0+1.19.4
+	   \-- spruceui 5.0.0+1.20
+	- languagereload 1.6.1+1.20.1
+	- lazydfu 0.1.3
+	- legendarytooltips 1.4.5
+	- letmedespawn 1.2.1
+	- lithium 0.11.2
+	- longerchathistory 1.4
+	- lootballs 1.1.4
+	- lootr 0.7.33.81
+	- macos_input_fixes 1.7
+	- make_bubbles_pop 0.3.0-fabric
+	- malilib 0.16.3
+	- megamons 1.5.0+1.20.1-forge+fabric-75b66fa
+	- melody 1.0.3
+	- memoryleakfix 1.1.5
+	- minecraft 1.20.1
+	- modmenu 7.2.2
+	- monsters_in_the_closet 1.0.3+1.20
+	- more_cobblemon_tweaks 0.5.1
+	- moreculling 1.20.4-0.24.0
+	   |-- conditional-mixin 0.3.2
+	   \-- mixinsquared 0.1.1
+	- mr_cobblemon_legendarystructures 1.1.1
+	- music_control 1.8.2+1.20.1
+	- mythsandlegends 1.5-HOTFIX
+	   \-- com_moandjiezana_toml_toml4j 0.7.2
+	- naturescompass 1.20.1-2.2.3-fabric
+	- netherportalfix 13.0.1
+	- notenoughanimations 1.7.6
+	- owo 0.11.2+1.20
+	- patchouli 1.20.1-84-FABRIC
+	   \-- fiber 0.23.0-2
+	- presencefootsteps 1.9.4+1.20.1
+	   \-- kirin 1.15.6+1.20.1
+	- prism 1.0.5
+	- raised 4.0.0
+	- rctmod 0.11.1-alpha
+	- reeses-sodium-options 1.7.2+mc1.20.1-build.101
+	- roughlyenoughitems 12.1.758
+	   \-- error_notifier 1.0.9
+	- roughlyenoughprofessions 2.0.2
+	- roughlysearchable 2.6.0+1.20.1
+	- searchables 1.0.3
+	- seasons 2.3+1.20
+	- seasonsextras 1.2-BETA+1.20
+	- seasonsterraformerscompat 1.0
+	- showmeyourskin 1.9.0+1.20
+	- shulkerboxtooltip 4.0.4+1.20.1
+	- simpletms 1.1.2
+	- slimyfloor 1.20-1.2.8
+	- sodium 0.5.11+mc1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   \-- fabric-resource-loader-v0 0.11.10+1802ada577
+	- sodium-extra 0.5.4+mc1.20.1-build.115
+	   |-- caffeineconfig 1.3.0+1.17
+	   \-- crowdin-translate 1.4+1.19.3
+	- sophisticatedbackpacks 3.19.5+mc1.20.1-SNAPSHOT-build.104
+	   |-- cardinal-components-base 5.2.2
+	   |-- cardinal-components-entity 5.2.2
+	   |-- porting_lib_extensions 2.3.0+1.20.1
+	   |    |-- porting_lib_accessors 2.3.0+1.20.1
+	   |    |-- porting_lib_attributes 2.3.0+1.20.1
+	   |    |-- porting_lib_common 2.3.0+1.20.1
+	   |    |-- porting_lib_core 2.3.0+1.20.1
+	   |    \-- reach-entity-attributes 2.4.0
+	   |-- porting_lib_loot 2.3.0+1.20.1
+	   |    \-- porting_lib_lazy_registration 2.3.0+1.20.1
+	   |-- porting_lib_model_loader 2.3.0+1.20.1
+	   |-- porting_lib_networking 2.3.0+1.20.1
+	   |-- porting_lib_tool_actions 2.3.0+1.20.1
+	   |-- porting_lib_transfer 2.3.0+1.20.1
+	   \-- team_reborn_energy 3.0.0
+	- sophisticatedcore 0.5.109+mc1.20.1-SNAPSHOT-build.104
+	   \-- porting_lib_fluids 2.3.0+1.20.1
+	- sspb 3.4.0
+	- starlight 1.1.2+fabric.dbc156f
+	- stendhal 1.4.1-1.20
+	   \-- libgui 8.0.1+1.20
+	        |-- jankson 5.0.1+j1.2.2
+	        \-- libninepatch 1.2.0
+	- superflatworldnoslimes 3.4
+	- terralith 2.4.8
+	- titlefixer 1.0+1.20.1
+	- toolstats 16.0.9
+	- tooltipfix 1.1.1-1.20
+	- tpaplusplus 1.6.0-1.20.x-UNTESTED-BETA-3
+	- unilib 1.0.2
+	   \-- fabric-resource-loader-v0 0.11.10+1802ada577
+	- visuality 0.7.1+1.20
+	- watching 1.9.2
+	- waterdripsound 1.19-0.3.2
+	- waveycapes 1.4.9
+	- weaponmaster_ydm 4.2.3
+	- wherearemytms 2.1.2-hotfix
+	- wwoo 2.0.0
+	- xaerominimap 24.4.0
+	- xaeroworldmap 1.39.0
+	- yet_another_config_lib_v3 3.5.0+1.20.1-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.10.0
+	   |-- com_twelvemonkeys_common_common-io 3.10.0
+	   |-- com_twelvemonkeys_common_common-lang 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.10.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- yosbr 0.1.2
+	- zoomify 2.14.0+1.20.1
+	   \-- com_akuleshov7_ktoml-core-jvm 0.5.1
+[21:44:28] [main/INFO]: Applying default options... (YOSBR)
+[21:44:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/kenne/AppData/Roaming/PolyMC/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[21:44:29] [main/INFO]: Compatibility level set to JAVA_17
+[21:44:29] [main/WARN]: Reference map 'cinderscapes-worldgen-refmap.json' for mixins.cinderscapes-worldgen.json could not be read. If this is a development environment you can ignore this message
+[21:44:30] [main/WARN]: Reference map 'cobbreeding-fabric-refmap.json' for cobbreeding-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:44:30] [main/WARN]: Reference map 'dismountentity_fabric.refmap.json' for dismountentity_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:44:30] [main/WARN]: Reference map 'expanded_ecosphere-fabric-refmap.json' for wwoo.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:44:30] [main/WARN]: Reference map 'InvMove-mc1.20_fabric-refmap.json' for invmove-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:44:30] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 2 override(s) found
+[21:44:30] [main/WARN]: Reference map 'LongerChatHistory-fabric-refmap.json' for longerchathistory.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:44:30] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:44:30] [main/WARN]: Reference map 'panorama_screens-fabric-refmap.json' for panorama_screen.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:44:30] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 3 override(s) found
+[21:44:30] [main/INFO]: Loaded configuration file for Sodium Extra: 34 options available, 0 override(s) found
+[21:44:31] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/quad/blender/LinearColorBlender (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/model/quad/blender/LinearColorBlender)
+[21:44:31] [main/WARN]: Error loading class: net/fabricmc/fabric/impl/client/indigo/renderer/render/AbstractQuadRenderer (java.lang.ClassNotFoundException: net/fabricmc/fabric/impl/client/indigo/renderer/render/AbstractQuadRenderer)
+[21:44:31] [main/WARN]: @Mixin target net.fabricmc.fabric.impl.client.indigo.renderer.render.AbstractQuadRenderer was not found bedrockify.mixins.json:client.features.bedrockShading.lightBlock.AbstractQuadRendererMixin from mod bedrockify
+[21:44:31] [main/WARN]: Error loading class: juuxel/adorn/block/variant/BlockVariantSets (java.lang.ClassNotFoundException: juuxel/adorn/block/variant/BlockVariantSets)
+[21:44:31] [main/WARN]: @Mixin target juuxel.adorn.block.variant.BlockVariantSets was not found mixins.cobblemon-common.json:invoker.AdornRegisterInvoker from mod cobblemon
+[21:44:31] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[21:44:31] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[21:44:31] [main/WARN]: Error loading class: com/telepathicgrunt/the_bumblezone/modcompat/recipecategories/jei/QueenTradesJEICategory (java.lang.ClassNotFoundException: com/telepathicgrunt/the_bumblezone/modcompat/recipecategories/jei/QueenTradesJEICategory)
+[21:44:31] [main/WARN]: @Mixin target com.telepathicgrunt.the_bumblezone.modcompat.recipecategories.jei.QueenTradesJEICategory was not found more_cobblemon_tweaks.mixins.json:QueenTradeMixin from mod more_cobblemon_tweaks
+[21:44:32] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[21:44:32] [main/WARN]: Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[21:44:32] [main/WARN]: Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[21:44:32] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[21:44:32] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[21:44:32] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[21:44:32] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[21:44:32] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[21:44:32] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[21:44:32] [main/INFO]: [SSPB] Indium detected. Option to toggle vanilla path block lighting is enabled
+[21:44:32] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[21:44:32] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [targetEntityLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[21:44:34] [main/INFO]: Starting Essential Loader (stage2) version 1.6.3 (efcb6b821a2b6aca3ad9fdfcd01c8ae1) [stable]
+[21:44:34] [main/INFO]: Starting Essential v1.3.4.1 (#311f9c466c) [stable]
+[21:44:34] [main/INFO]: Java: Java HotSpot(TM) 64-Bit Server VM (v18.0.2.1) by Oracle Corporation (Oracle Corporation)
+[21:44:34] [main/INFO]: Java Path: C:\Program Files\Java\jdk-18.0.2.1\bin
+[21:44:34] [main/INFO]: Java Info: mixed mode, sharing
+[21:44:34] [main/INFO]: JVM Arguments: 
+  - -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  - -Xms512m
+  - -Xmx10000m
+  - -Duser.language=en
+  - -Djava.library.path=C:/Users/kenne/AppData/Roaming/PolyMC/instances/Cobblemon Official Modpack [Fabric]/natives
+[21:44:34] [main/INFO]: OS: Windows 11 (v10.0) (Arch: amd64)
+[21:44:34] [main/INFO]: Searching for graphics cards...
+[21:44:35] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=NVIDIA, description='NVIDIA GeForce RTX 2070 Super', adapterType=0x00002313, openglIcdFilePath='C:\WINDOWS\System32\DriverStore\FileRepository\nvmii.inf_amd64_589b7d979e0e83dc\nvoglv64.dll', openglIcdVersion=32.0.15.6094}
+[21:44:35] [main/INFO]: Found graphics adapter: AdapterInfo{vendor=INTEL, description='Intel(R) UHD Graphics', adapterType=0x0000232B, openglIcdFilePath='C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e62be9c39fb0007\ig9icd64.dll', openglIcdVersion=26.20.100.7642}
+[21:44:35] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[21:44:35] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[21:44:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[21:44:38] [main/WARN]: Mixin stendhal.mixins.json:ChatScreenMixin from mod stendhal has multiple constructors, (Lnet/minecraft/class_2561;)V was selected
+[21:44:50] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:44:50] [Render thread/INFO]: Setting user: Kewzito
+[21:44:52] [Render thread/INFO]: Starting DI!
+[21:44:53] [Render thread/INFO]: Authenticating to Mojang as Kewzito (245c72a1-1c6a-4fb1-9aeb-ee21d40fdd08)
+[21:44:53] [DefaultDispatcher-worker-3/INFO]: Connecting to Essential Connection Manager...
+[21:44:53] [Render thread/WARN]: Injection warning: LVT in net/minecraft/class_332::method_51435(Lnet/minecraft/class_327;Ljava/util/List;IILnet/minecraft/class_8000;)V has incompatible changes at opcode 152 in callback iceberg.mixins.json:GuiGraphicsMixin from mod iceberg->@Inject::storeLocalsOptifine(Lnet/minecraft/class_327;Ljava/util/List;IILnet/minecraft/class_8000;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Ljava/lang/Object;IIIILorg/joml/Vector2ic;)V.
+ Expected: [Ljava/lang/Object;, I, I, I, I, Lorg/joml/Vector2ic;]
+    Found: [I, I, I, I, Lorg/joml/Vector2ic;]
+Available: [I, I, I, I, Lorg/joml/Vector2ic;]
+[21:44:53] [DefaultDispatcher-worker-2/INFO]: Using Default JreDnsResolver
+[21:44:53] [DefaultDispatcher-worker-2/INFO]: Using Default JreSocketFactory
+[21:44:53] [Render thread/INFO]: Initializing BadgeboxMod
+[21:44:53] [WebSocketConnectReadThread-86/INFO]: Connected to Essential Connection Manager.
+[21:44:54] [Render thread/INFO]: Initializing BedrockIfy.
+[21:44:54] [Render thread/INFO]: BetterPingDisplay mod loaded
+[21:44:54] [Render thread/INFO]: Biolith is initializing...
+[21:44:54] [Render thread/INFO]: Enabling Biolith's TerraBlender compatibility layer.
+[21:44:54] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[21:44:54] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[21:44:54] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[21:44:54] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[21:44:54] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[21:44:54] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[21:44:54] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[21:44:54] [Render thread/INFO]: Enabling Cinderscapes' Biolith worldgen module.
+[21:44:54] [Cicada thread 0/INFO]: 'what'
+[21:44:54] [Cicada thread 0/INFO]: 'that's not you'
+[21:44:54] [Cicada thread 0/INFO]: 'mineblock8 was the eight version of you and the first version of louise and was eaten by dicedpixels in the bite of 87'
+[21:44:54] [Cicada thread 0/INFO]: 'mineblock9 was the ninth version of you and the second version of louise and sadly escaped, before infiltrating this thread as louise'
+[21:44:54] [Cicada thread 0/INFO]: 'mineblock10 was the tenth version of you and was stabbed'
+[21:44:54] [Cicada thread 0/INFO]: 'mineblock11 was the eleventh version of you and the only one deemed sane enough to be released in the wild'
+[21:44:55] [Render thread/INFO]: Initializing Cobbled Shiny Particles
+[21:44:55] [Render thread/INFO]: Initializing Cobbledex 1.1.0...
+[21:44:55] [Render thread/INFO]: [STDOUT]: All 5 have been set properly
+[21:44:55] [Render thread/INFO]: [STDOUT]: Registering Mod Items for cobblefossil
+[21:44:55] [Render thread/INFO]: Registering ModBlocks for cobblefossil
+[21:44:55] [Render thread/INFO]: Registering Villagers cobblefossil
+[21:44:55] [Render thread/INFO]: Registering Fossilmon Mod Item Group
+[21:44:55] [Render thread/INFO]: CobbleFossils Mod is Running Properly
+[21:44:56] [Render thread/INFO]: Booting LaxPermissionValidator, permissions will be checked using Minecrafts permission level system, see https://minecraft.fandom.com/wiki/Permission_level
+[21:44:56] [Render thread/INFO]: Launching Cobblemon 1.5.2 
+[21:44:56] [Render thread/INFO]: Booting FabricPermissionValidator, permissions will be checked using fabric-permissions-api, see https://github.com/lucko/fabric-permissions-api
+[21:44:56] [Render thread/ERROR]: No data fixer registered for cobblemon:pokemon
+[21:44:56] [Render thread/ERROR]: No data fixer registered for cobblemon:empty_pokeball
+[21:44:56] [Render thread/ERROR]: No data fixer registered for cobblemon:boat
+[21:44:56] [Render thread/ERROR]: No data fixer registered for cobblemon:chest_boat
+[21:44:56] [Render thread/ERROR]: No data fixer registered for cobblemon:generic_bedrock
+[21:44:57] [Render thread/INFO]: Starting the Best Spawner...
+[21:44:57] [Render thread/INFO]: Loaded 5 spawning condition types.
+[21:44:57] [Render thread/INFO]: Loaded 5 spawning context types.
+[21:44:57] [Render thread/INFO]: Loaded 1 spawn detail types.
+[21:44:58] [Cobblemon Showdown/INFO]: Starting showdown service...
+[21:45:04] [Cobblemon Showdown/INFO]: Showdown has been started!
+[21:45:04] [Render thread/INFO]: Note: Cobblemon data registries are only loaded once per server instance as Pokémon species are not safe to reload.
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:species_features registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:global_species_features registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:species_feature_assignments registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:action_effects registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:moves registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:abilities registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:species registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:species_additions registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:pokeballs registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:properties_tab_completion registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:spawn_detail_presets registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:spawn_rules registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:mechanics registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:bag_items registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:dialogues registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:natural_materials registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:fossils registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:spawn_pool_world registry
+[21:45:04] [Render thread/INFO]: Registered the cobblemon:berries registry
+[21:45:05] [Render thread/INFO]: Initializing CobblemonArmorSetsMod
+[21:45:05] [Render thread/INFO]: [STDOUT]: All 18 have been set properly
+[21:45:06] [Render thread/INFO]: [STDOUT]: CobblemonTrainers Fabric initialized
+[21:45:06] [Render thread/INFO]: Initializing cobblenav config
+[21:45:06] [Render thread/INFO]: Registering items for cobblenav
+[21:45:06] [Render thread/INFO]: Loading Collective version 7.84.
+[21:45:06] [Render thread/INFO]: Initializing network...
+[21:45:06] [Render thread/INFO]: Initialized network!
+[21:45:06] [Render thread/INFO]: Loading Expanded Ecosphere
+[21:45:07] [Render thread/INFO]: [Expanded Ecosphere Updater] Found no updates
+[21:45:08] [Render thread/INFO]: [FANCYMENU] Loading v3.2.3 in client-side mode on FABRIC!
+[21:45:08] [Render thread/INFO]: Hello Fabric world from Fight or Flight!
+[21:45:08] [Render thread/INFO]: Registering C2S receiver with id gardens_of_the_dead:networking_channel/bc2f24ca5d503301bb3abf7b928d614e
+[21:45:08] [Render thread/INFO]: Registering S2C receiver with id gardens_of_the_dead:networking_channel/bc2f24ca5d503301bb3abf7b928d614e
+[21:45:08] [Render thread/INFO]: Initialized GlobalDatapack
+[21:45:08] [Render thread/INFO]: GTS config file read successfully.
+[21:45:08] [Render thread/INFO]: GTS lang file read successfully.
+[21:45:08] [Render thread/INFO]: Deserializing Config from 'C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\config\HomewardConfig.json5'
+[21:45:08] [Render thread/INFO]: Deserializing Config from 'C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\config\HomewardConfig.json5'
+[21:45:08] [Render thread/INFO]: Mr. Paris, set a course... for home.
+[21:45:08] [Render thread/INFO]: Initializing API...
+[21:45:08] [Render thread/INFO]: Registering modules...
+[21:45:09] [Render thread/INFO]: Registering commands...
+[21:45:10] [Render thread/INFO]: Setting up schedulers...
+[21:45:10] [Render thread/INFO]: Integrating with PlaceholderAPI...
+[21:45:10] [Render thread/INFO]: [KONKRETE] Successfully initialized!
+[21:45:10] [Render thread/INFO]: [KONKRETE] Server-side libs ready to use!
+[21:45:10] [Render thread/INFO]: Compression will use Java, encryption will use Java
+[21:45:10] [Render thread/INFO]: Registering blocks for lootballs
+[21:45:10] [Render thread/INFO]: Registering block entities for lootballs
+[21:45:10] [Render thread/INFO]: Registering items for lootballs
+[21:45:10] [Render thread/INFO]: Registering item groups for lootballs
+[21:45:10] [Render thread/INFO]: Registering sound events for lootballs
+[21:45:10] [Render thread/INFO]: Registering stats for lootballs
+[21:45:10] [Render thread/INFO]: Registering gamerules for lootballs
+[21:45:10] [Render thread/INFO]: Registering features for lootballs
+[21:45:10] [Render thread/INFO]: Registering world generation for lootballs
+[21:45:10] [Render thread/INFO]: Registering loot table modifiers for lootballs
+[21:45:10] [Render thread/INFO]: MidnightLib detected!
+[21:45:10] [Render thread/INFO]: Make Bubbles Pop by Tschipcraft initialized!
+[21:45:10] [Render thread/INFO]: Initialzing Megamons ...
+[21:45:10] [Render thread/INFO]: [MELODY] Loading Melody background audio library..
+[21:45:10] [Render thread/INFO]: Items registered
+[21:45:10] [Render thread/INFO]: Tick Events Registered
+[21:45:10] [Render thread/INFO]: Registered all conditions
+[21:45:11] [Render thread/INFO]: Maybe we take a page out of the Wisp Forest handbook: When in doubt, steal glisco's code
+[21:45:11] [Render thread/ERROR]: Failed to load book seasonsextras:seasonal_compendium defined by mod seasonsextras, skipping
+java.lang.IllegalArgumentException: Book seasonsextras:seasonal_compendium has use_resource_pack set to false. This behaviour was removed in 1.20. The book author should enable this flag and move all book contents clientside to /assets/, leaving the book.json in /data/. See https://vazkiimods.github.io/Patchouli/docs/upgrading/upgrade-guide-120 for details.
+	at vazkii.patchouli.common.book.Book.<init>(Book.java:145) ~[Patchouli-1.20.1-84-FABRIC.jar:?]
+	at vazkii.patchouli.common.book.BookRegistry.loadBook(BookRegistry.java:90) ~[Patchouli-1.20.1-84-FABRIC.jar:?]
+	at vazkii.patchouli.common.book.BookRegistry.lambda$init$3(BookRegistry.java:75) ~[Patchouli-1.20.1-84-FABRIC.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at vazkii.patchouli.common.book.BookRegistry.init(BookRegistry.java:70) ~[Patchouli-1.20.1-84-FABRIC.jar:?]
+	at vazkii.patchouli.fabric.common.FabricModInitializer.onInitialize(FabricModInitializer.java:33) ~[Patchouli-1.20.1-84-FABRIC.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:384) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startClient(Hooks.java:52) ~[fabric-loader-0.15.11.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:458) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:211) ~[minecraft-1.20.1-client.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.11.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at org.polymc.impl.OneSixLauncher.invokeMain(OneSixLauncher.java:104) ~[NewLaunch.jar:?]
+	at org.polymc.impl.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:176) ~[NewLaunch.jar:?]
+	at org.polymc.impl.OneSixLauncher.launch(OneSixLauncher.java:186) ~[NewLaunch.jar:?]
+	at org.polymc.EntryPoint.listen(EntryPoint.java:144) ~[NewLaunch.jar:?]
+	at org.polymc.EntryPoint.main(EntryPoint.java:74) ~[NewLaunch.jar:?]
+[21:45:11] [Render thread/ERROR]: No data fixer registered for trainer
+[21:45:12] [Render thread/INFO]: [REI] Config loaded
+[21:45:12] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:request_tags_s2c
+[21:45:12] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider REICompat [sophisticatedbackpacks] for REIPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider OwoReiPlugin [owo] for REIPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider REPClientPlugin [roughlyenoughprofessions] for REIPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider REIClientCompat [sophisticatedbackpacks] for REIPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider REIClientCompat [sophisticatedcore] for REIPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider REICompat [sophisticatedbackpacks] for REIServerPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[21:45:12] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[21:45:12] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[21:45:12] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[21:45:12] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[21:45:12] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[21:45:12] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[21:45:12] [Render thread/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[21:45:12] [Render thread/INFO]: [Fabric Seasons] Trying to read config file...
+[21:45:12] [Render thread/INFO]: [Fabric Seasons] A config file was found, loading it..
+[21:45:12] [Render thread/INFO]: [Fabric Seasons] Successfully loaded config file.
+[21:45:12] [Render thread/INFO]: [ShulkerBoxTooltip] Could not find configuration file, creating default file
+[21:45:12] [Render thread/INFO]: Register Mod Items for simpletms
+[21:45:12] [Render thread/INFO]: Registering Item Groups for simpletms
+[21:45:12] [Render thread/INFO]: Register TM and TR list for simpletms
+[21:45:13] [Render thread/ERROR]: No data fixer registered for 
+[21:45:13] [Render thread/INFO]: [Stendhal] Initializing
+[21:45:13] [Render thread/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[21:45:13] [Render thread/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[21:45:13] [Render thread/INFO]: Registered region gardens_of_the_dead:nether to index 1 for type NETHER
+[21:45:13] [Render thread/INFO]: INITIALIZING...
+[21:45:13] [Render thread/INFO]: REGISTERING BACK COMMAND...
+[21:45:13] [Render thread/INFO]: REGISTERING TPAACCEPT COMMAND...
+[21:45:13] [Render thread/INFO]: REGISTERING TPACANCEL COMMAND...
+[21:45:13] [Render thread/INFO]: REGISTERING TPA COMMAND...
+[21:45:13] [Render thread/INFO]: REGISTERING TPADENY COMMAND...
+[21:45:13] [Render thread/INFO]: REGISTERING TPAHERE COMMAND...
+[21:45:13] [Render thread/INFO]: REGISTERING TPAPLUSPLUS COMMAND...
+[21:45:13] [Render thread/INFO]: REGISTERING TPBLOCK COMMAND...
+[21:45:13] [Render thread/INFO]: REGISTERING TPTOGGLE COMMAND...
+[21:45:13] [Render thread/INFO]: REGISTERING TPUNBLOCK COMMAND...
+[21:45:13] [Render thread/INFO]: REGISTERING "LifecycleEvent.LIVING_DEATH"...
+[21:45:13] [Render thread/INFO]: REGISTERING "RequestTimeoutEvent"...
+[21:45:13] [Render thread/WARN]: USING EXPERIMENTAL NON BLOCKING TICK LOOP
+[21:45:13] [Render thread/INFO]: INITIALIZING TICK LOOP WITH RATE OF 20...
+[21:45:13] [Render thread/INFO]: INITIALIZING VERSION CHECKING...
+[21:45:13] [Render thread/INFO]: FINAL SETUP...
+[21:45:13] [Render thread/INFO]: Successfully loaded player data!
+[21:45:13] [Render thread/INFO]: INITIALIZING SHUTDOWN HOOK FOR CLEANUP...
+[21:45:13] [Render thread/INFO]: ...INITIALIZATION COMPLETE
+[21:45:13] [Render thread/INFO]: [STDOUT]: Initialize WeaponMaster
+[21:45:13] [Render thread/INFO]: AdvancementInfo initialized
+[21:45:13] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
+[21:45:13] [Render thread/INFO]: Initializing BedrockIfy Client.
+[21:45:14] [Render thread/INFO]: Initialized BedrockIfy Client
+[21:45:14] [Render thread/INFO]: [citresewn] Registering CIT Conditions
+[21:45:14] [Render thread/INFO]: [citresewn] Registering CIT Types
+[21:45:14] [Render thread/INFO]: Fabric Client Initialized
+[21:45:14] [Render thread/INFO]: Initializing Cobblemon client
+[21:45:14] [Render thread/INFO]: Registering Pokémon renderer
+[21:45:14] [Render thread/INFO]: Registering PokéBall renderer
+[21:45:14] [Render thread/INFO]: Registering Boat renderer
+[21:45:14] [Render thread/INFO]: Registering Boat with Chest renderer
+[21:45:14] [Render thread/INFO]: Registering Generic Bedrock Entity renderer
+[21:45:14] [Render thread/INFO]: Registering custom BuiltinItemRenderers
+[21:45:15] [Render thread/INFO]: Initializing client cobblenav config
+[21:45:15] [UniLib/INFO]: Starting version check for "craftpresence" (MC 1.20.1) at "https://raw.githubusercontent.com/CDAGaming/VersionLibrary/master/CraftPresence/update.json"
+[21:45:15] [UniLib/INFO]: Starting version check for "unilib" (MC 1.20.1) at "https://raw.githubusercontent.com/CDAGaming/VersionLibrary/master/UniLib/update.json"
+[21:45:15] [Render thread/INFO]: Loading CullLessLeavesConfig...
+[21:45:15] [Render thread/INFO]: Dynamic FPS 3.7.1 active on Fabric!
+[21:45:15] [CraftPresence/INFO]: Configuration settings have been saved and reloaded successfully!
+[21:45:15] [CraftPresence/INFO]: Checking for "atlauncher" pack data...
+[21:45:15] [CraftPresence/ERROR]: Unable to get "atlauncher" pack data (ignore if not using a "atlauncher" pack)
+[21:45:15] [CraftPresence/INFO]: Checking for "modrinth" pack data...
+[21:45:15] [CraftPresence/ERROR]: Unable to get "modrinth" pack data (ignore if not using a "modrinth" pack)
+[21:45:15] [CraftPresence/INFO]: Checking Discord for available assets with Client Id: 1042681781775769610
+[21:45:15] [CraftPresence/INFO]: Originally coded by paulhobbel - https://github.com/paulhobbel
+[21:45:15] [Render thread/INFO]: Deserializing Config from 'C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\config\dynamiccrosshair.json5'
+[21:45:15] [Render thread/INFO]: Loaded config file.
+[21:45:15] [UniLib/INFO]: Received update status for "unilib" -> Release (Target version: "")
+[21:45:15] [UniLib/INFO]: Received update status for "craftpresence" -> Release (Target version: "")
+[21:45:15] [Render thread/INFO]: Saved config file.
+[21:45:15] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[21:45:15] [CraftPresence/INFO]: 5 total assets detected!
+[21:45:16] [Render thread/INFO]: Krypton is now accelerating your Minecraft client's networking stack 🚀
+[21:45:16] [Render thread/INFO]: Note that Krypton is most effective on servers, not the client.
+[21:45:16] [Render thread/INFO]: [LambDynLights] Initializing LambDynamicLights...
+[21:45:16] [Render thread/INFO]: [LambDynLights] Configuration loaded.
+[21:45:16] [Render thread/INFO]: Lamb Dynamic Lights compatibility enabled
+[21:45:16] [Worker-Main-1/INFO]: Checking mod updates...
+[21:45:17] [Render thread/INFO]: [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIClientPlugin
+[21:45:17] [Render thread/INFO]: [REI] Registered plugin provider OwoReiPlugin [owo] for REIClientPlugin
+[21:45:17] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIClientPlugin
+[21:45:17] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[21:45:17] [Render thread/INFO]: [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIClientPlugin
+[21:45:17] [Render thread/INFO]: [REI] Registered plugin provider REPClientPlugin [roughlyenoughprofessions] for REIClientPlugin
+[21:45:17] [Render thread/INFO]: [REI] Registered plugin provider REIClientCompat [sophisticatedbackpacks] for REIClientPlugin
+[21:45:17] [Render thread/INFO]: [REI] Registered plugin provider REIClientCompat [sophisticatedcore] for REIClientPlugin
+[21:45:17] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:ci_msg
+[21:45:17] [Render thread/INFO]: Registering S2C receiver with id roughlyenoughitems:og_not_enough
+[21:45:17] [Render thread/INFO]: SlimyFloor is a server side only mod (... for now ...)
+[21:45:17] [Render thread/INFO]: [SSPB] Broken dirt path lighting is best dirt path lighting lol
+[21:45:17] [Render thread/INFO]: Title Fixer started.
+[21:45:17] [Render thread/INFO]: Saving config to C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\config\toolstats.json.
+[21:45:17] [CraftPresence/INFO]: Attempting to connect to Discord (1/10)...
+[21:45:17] [Render thread/INFO]: Loading Xaero's Minimap - Stage 1/2
+[21:45:17] [CraftPresence/INFO]: Loaded display data with Client Id: 1042681781775769610 (Logged in as Godku)
+[21:45:17] [Render thread/INFO]: Loading Xaero's World Map - Stage 1/2
+[21:45:18] [Worker-Main-1/INFO]: Update available for 'roughlyenoughitems@12.1.758', (-> 12.1.770+fabric)
+[21:45:19] [Render thread/INFO]: Deserializing YACLConfig from 'C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\config\yacl.json5'
+[21:45:19] [Render thread/WARN]: Error loading class: org/spongepowered/asm/synthetic/args/Args$2 (java.lang.ClassNotFoundException: org/spongepowered/asm/synthetic/args/Args$2)
+[21:45:19] [Render thread/INFO]: [STDERR]: org.objectweb.asm.tree.analysis.AnalyzerException: Error at instruction 103: Cannot invoke "org.spongepowered.asm.mixin.transformer.ClassInfo.hasSuperClass(org.spongepowered.asm.mixin.transformer.ClassInfo)" because the return value of "org.spongepowered.asm.mixin.transformer.ClassInfo.forType(org.objectweb.asm.Type, org.spongepowered.asm.mixin.transformer.ClassInfo$TypeLookup)" is null
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:279)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.generateLocalVariableTable(Locals.java:859)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getGeneratedLocalVariableTable(Locals.java:828)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:782)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:752)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:545)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:336)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.initLocals(LocalVariableDiscriminator.java:154)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.<init>(LocalVariableDiscriminator.java:148)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector$Context.<init>(ModifyVariableInjector.java:71)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector.preInject(ModifyVariableInjector.java:159)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.code.Injector.preInject(Injector.java:259)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.preInject(InjectionInfo.java:436)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1370)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1062)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:402)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:422)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_315.<init>(class_315.java:469)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_310.<init>(class_310.java:460)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:211)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.polymc.impl.OneSixLauncher.invokeMain(OneSixLauncher.java:104)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.polymc.impl.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:176)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.polymc.impl.OneSixLauncher.launch(OneSixLauncher.java:186)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.polymc.EntryPoint.listen(EntryPoint.java:144)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.polymc.EntryPoint.main(EntryPoint.java:74)
+[21:45:19] [Render thread/INFO]: [STDERR]: Caused by: java.lang.NullPointerException: Cannot invoke "org.spongepowered.asm.mixin.transformer.ClassInfo.hasSuperClass(org.spongepowered.asm.mixin.transformer.ClassInfo)" because the return value of "org.spongepowered.asm.mixin.transformer.ClassInfo.forType(org.objectweb.asm.Type, org.spongepowered.asm.mixin.transformer.ClassInfo$TypeLookup)" is null
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.util.asm.MixinVerifier.isAssignableFrom(MixinVerifier.java:104)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.SimpleVerifier.isSubTypeOf(SimpleVerifier.java:212)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.BasicVerifier.naryOperation(BasicVerifier.java:400)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.BasicVerifier.naryOperation(BasicVerifier.java:44)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.executeInvokeInsn(Frame.java:682)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.execute(Frame.java:609)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:171)
+[21:45:19] [Render thread/INFO]: [STDERR]: 	... 39 more
+[21:45:19] [Render thread/INFO]: OptiFine not detected.
+[21:45:19] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[21:45:19] [Render thread/WARN]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[21:45:20] [Render thread/INFO]: Initializing ImmediatelyFast 1.2.21+1.20.4 on NVIDIA GeForce RTX 2070 Super/PCIe/SSE2 (NVIDIA Corporation) with OpenGL 3.2.0 NVIDIA 560.94
+[21:45:20] [Render thread/INFO]: Found Iris/Oculus 1.7.2+mc1.20.1. Enabling compatibility.
+[21:45:20] [Render thread/INFO]: Debug functionality is disabled.
+[21:45:20] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[21:45:21] [Render thread/INFO]: Profile: Custom (+0 options changed by user)
+[21:45:21] [Render thread/INFO]: Using shaderpack: Sildur's Vibrant Shaders v1.52 Medium.zip
+[21:45:21] [Render thread/WARN]: Missing metadata in pack file/CobbleAether.zip
+[21:45:23] [Render thread/INFO]: Hardware information:
+[21:45:23] [Render thread/INFO]: CPU: 12x Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+[21:45:23] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 2070 Super/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 560.94)
+[21:45:23] [Render thread/INFO]: OS: Windows 11 (10.0)
+[21:45:24] [Render thread/INFO]: [FANCYMENU] Registering resource reload listener..
+[21:45:24] [Essential Thread 1/WARN]: Error when trying to parse installer telemetry!
+java.nio.file.NoSuchFileException: C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\essential\installer-metadata.json
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:96) ~[?:?]
+	at sun.nio.fs.WindowsLinkSupport.getRealPath(WindowsLinkSupport.java:258) ~[?:?]
+	at sun.nio.fs.WindowsPath.toRealPath(WindowsPath.java:949) ~[?:?]
+	at sun.nio.fs.WindowsPath.toRealPath(WindowsPath.java:42) ~[?:?]
+	at gg.essential.network.connectionmanager.telemetry.TelemetryManager.lambda$queueInstallerTelemetryPacket$1(TelemetryManager.java:204) ~[Essential%20(fabric_1.20.1).jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[21:45:24] [Render thread/INFO]: [FANCYMENU] Initializing screen customization engine! Addons should NOT REGISTER TO REGISTRIES anymore now!
+[21:45:25] [Render thread/INFO]: [FANCYMENU] Minecraft resource reload: STARTING
+[21:45:25] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric (advancementinfo, adventure-platform-fabric, appleskin, badgebox, balm-fabric, bedrockify, better_end_sky, betterpingdisplay, betterthirdperson, biolith, bookshelf, borderlessmining, bwncr, caffeineconfig, cardinal-components-base, cardinal-components-entity, cavedust, cherishedworlds, cicada, cinderscapes, cinderscapes-client, cinderscapes-common, cinderscapes-worldgen, citresewn, citresewn-defaults, cleancut, cleardespawn, cloth-config, cloud, clumps, cobbled-shiny-particles, cobbledex, cobblefossil, cobblemon, cobblemon_armor_sets, cobblemon_counter, cobblemon_helditems, cobblemon_move_inspector, cobblemon_spawn_notification, cobblemon_unimplementeditems, cobblemonarmors, cobblemonbreakouts, cobblemonintegrations, cobblemonridingfabric, cobblenav, cobblepedia, cobbreeding, conditional-mixin, continuity, controlling, corgilib, craftingtweaks, craftpresence, cristellib, ctrl-q, cull-less-leaves, dynamic_fps, dynamiccrosshair, eatinganimationid, enchdesc, enhanced_attack_indicator, entityculling, essential-container, essential-loader, expanded_ecosphere, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-tables-v1, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-networking-v0, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, fallingleaves, fancymenu, faster_entity_animations, feytweaks, fightorflight, forgeconfigapiport, gardens_of_the_dead, geckolib, global-datapack, highlight, highlighter, homeward-bound, immediatelyfast, incendium, indium, invmove, iris, jankson, konkrete, krypton, lambdynlights, languagereload, lazydfu, legendarytooltips, letmedespawn, libgui, lithium, longerchathistory, lootballs, lootr, macos_input_fixes, make_bubbles_pop, malilib, megamons, midnightlib, modmenu, monsters_in_the_closet, more_cobblemon_tweaks, moreculling, mr_cobblemon_legendarystructures, music_control, mythsandlegends, naturescompass, netherportalfix, notenoughanimations, owo, panorama_screens, patchouli, porting_lib_attributes, presencefootsteps, pride, raised, rctmod, reach-entity-attributes, reeses-sodium-options, roughlyenoughitems, roughlyenoughprofessions, roughlysearchable, searchables, seasons, seasonsextras, seasonsterraformerscompat, showmeyourskin, shulkerboxtooltip, simpletms, slimyfloor, sodium, sodium-extra, sophisticatedbackpacks, sophisticatedcore, spruceui, sspb, starlight, stendhal, team_reborn_energy, terrablender, terraform-biome-remapper-api-v1, terraform-shapes-api-v1, terraform-surfaces-api-v1, terraform-wood-api-v1, terralith, titlefixer, toolstats, tooltipfix, visuality, watching, waterdripsound, waveycapes, weaponmaster_ydm, wherearemytms, xaerominimap, xaeroworldmap, yaclx, yet_another_config_lib_v3, yosbr, zoomify, essential), continuity:default, continuity:glass_pane_culling_fix, presencefootsteps:default_sound_pack, file/Cobblemon Classic PC SFX Pack v1.0.zip, file/emissive-cobblemon-ores.zip, minecraft:highlight_extended, file/Better-Leaves-7.1-1.19+.zip, cobbreeding:pasturefix, file/Missing Legends V1.0 [Full Release].zip, file/bonus_cobblemon_textures_v1-1.5.zip, file/E19 Cobblemon Minimap Icons.zip, file/Combee MC Remodel v2.zip, file/pokemans_v5.28.zip, file/Animon Voices v0.3.zip, file/MysticMons_v2.0.1.zip, minecraft:supporteatinganimation, file/AllTheMons-Release3-Version50.zip, file/item_desc.zip, file/Pokémon Fishing v1.1.4 [1.20.1-v1.4+].zip, file/PocketmoenstersV6.0.zip, file/Original Type Icons v2.zip, file/Legendary_Encounters_S-1.20-1.zip, file/Legendary-Cobblemon-V1.8.zip, file/Kale's Collection [v1.7].zip, file/CloudMons_0.3.3.zip, file/AshiMons_ver1.3.zip, file/Cobblemon Classic Grass Pack v1.0 MC1.20.1.zip, file/Cobblemon-NotInYourFaceHUD.zip, file/CobblemonTextFixv1.1.zip, file/Cobblemon_Dynamic_Lights_Plus_Galarian_Ponyta.zip, file/GlitchDex-1.0.zip, seasons:seasonal_lush_caves, file/[V1.2] Original Pokemon Battle Music.zip, file/Route Music - Music Control, file/music_control, file/FreshMotion[V.0.2](Cobblemon) (1).zip, file/§5§lNBTpack §9Grass Block.zip, file/Cobblemon Interface v1.3.0.zip, file/Cobblemon Interface Modded v1.5.0.zip, file/Cobbled Simple TMs v1.zip, file/RCTremega.zip, file/rctbadges.zip, file/MythsandLegends-Datapack-v1.0.2.zip, Essential Assets, essential
+[21:45:25] [Render thread/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resourcepacks\GlitchDex-1.0.zip
+[21:45:25] [Render thread/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resourcepacks\FreshMotion[V.0.2](Cobblemon) (1).zip
+[21:45:25] [Render thread/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resourcepacks\GlitchDex-1.0.zip
+[21:45:25] [Render thread/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resourcepacks\FreshMotion[V.0.2](Cobblemon) (1).zip
+[21:45:25] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[21:45:25] [Worker-Main-11/WARN]: File cobblemon:sounds/pokemon/rattata/rattata_alolan_cry.ogg does not exist, cannot add it to event cobblemon:pokemon.rattata_alolan.cry
+[21:45:25] [Worker-Main-11/WARN]: File cobblemon:sounds/pokemon/petilil/petilil_hisui_bias_cry.ogg does not exist, cannot add it to event cobblemon:pokemon.petilil_hisui_bias.cry
+[21:45:25] [Worker-Main-11/WARN]: Invalid sounds.json in resourcepack: 'file/AllTheMons-Release3-Version50.zip'
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Expected name at line 9 column 2 path $.
+	at net.minecraft.class_3518.method_47992(class_3518.java:545) ~[client-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15273(class_3518.java:550) ~[client-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15297(class_3518.java:572) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1144.method_18180(class_1144.java:81) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1144.method_18789(class_1144.java:40) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18791(class_4080.java:11) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 9 column 2 path $.
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:514) ~[gson-2.10.jar:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar:?]
+	at net.minecraft.class_3518.method_47992(class_3518.java:543) ~[client-intermediary.jar:?]
+	... 12 more
+[21:45:25] [Render thread/ERROR]: Invalid path in mod resource-pack megamons: cobblemon:textures/pokemon/0003_venusaur2/venusaur2 (1).png, ignoring
+[21:45:25] [Worker-Main-1/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resourcepacks\GlitchDex-1.0.zip
+[21:45:25] [Worker-Main-1/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resourcepacks\FreshMotion[V.0.2](Cobblemon) (1).zip
+[21:45:25] [Render thread/ERROR]: Invalid path in mod resource-pack watching: watching:textures/font/watching_ui/crash_sequence/c41811 (2).jpg, ignoring
+[21:45:25] [Render thread/INFO]: [FANCYMENU] Preloading animations! This could cause the loading screen to freeze for a while..
+[21:45:25] [Render thread/INFO]: [FANCYMENU] Finished preloading animations!
+[21:45:25] [Render thread/INFO]: [FANCYMENU] Starting late client initialization phase..
+[21:45:25] [Render thread/INFO]: [FANCYMENU] Custom window icon successfully updated!
+[21:45:25] [Render thread/INFO]: [KONKRETE] Client-side libs ready to use!
+[21:45:25] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: title_screen
+[21:45:26] [Render thread/INFO]: Creating pipeline for dimension minecraft:overworld
+[21:45:26] [Worker-Main-8/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resourcepacks\GlitchDex-1.0.zip
+[21:45:26] [Worker-Main-8/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resourcepacks\FreshMotion[V.0.2](Cobblemon) (1).zip
+[21:45:26] [Worker-Main-8/INFO]: [citresewn] Loading item CIT models...
+[21:45:26] [Render thread/WARN]: Failed to resolve uniform inSwamp, reason: Unknown variable: BIOME_SWAMP_HILLS ( = FunctionCall{smooth {[Number{1}, FunctionCall{if {[FunctionCall{in {[Id{biome}, Number{6}, Id{BIOME_SWAMP_HILLS}]} }, Number{1}, Number{0}]} }, Number{5}]} })
+java.lang.RuntimeException: Unknown variable: BIOME_SWAMP_HILLS
+	at kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:220) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:194) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:127) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:194) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpressionInternal(ExpressionResolver.java:81) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at kroppeb.stareval.resolver.ExpressionResolver.resolveCallExpression(ExpressionResolver.java:140) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at kroppeb.stareval.resolver.ExpressionResolver.resolveExpressionInternal(ExpressionResolver.java:194) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at kroppeb.stareval.resolver.ExpressionResolver.resolveExpression(ExpressionResolver.java:50) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at net.irisshaders.iris.uniforms.custom.CustomUniforms.<init>(CustomUniforms.java:62) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:333) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at net.irisshaders.iris.uniforms.custom.CustomUniforms$Builder.build(CustomUniforms.java:344) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at net.irisshaders.iris.pipeline.IrisRenderingPipeline.<init>(IrisRenderingPipeline.java:265) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at net.irisshaders.iris.Iris.createPipeline(Iris.java:578) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at net.irisshaders.iris.pipeline.PipelineManager.preparePipeline(PipelineManager.java:33) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at net.irisshaders.iris.Iris.onLoadingComplete(Iris.java:138) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at net.minecraft.class_442.handler$dbf000$iris$firstInit(class_442.java:2023) ~[client-intermediary.jar:?]
+	at net.minecraft.class_442.method_25426(class_442.java:156) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25423(class_437.java:297) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1507(class_310.java:1080) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_51251(class_310.java:690) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:674) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:211) ~[minecraft-1.20.1-client.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.11.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at org.polymc.impl.OneSixLauncher.invokeMain(OneSixLauncher.java:104) ~[NewLaunch.jar:?]
+	at org.polymc.impl.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:176) ~[NewLaunch.jar:?]
+	at org.polymc.impl.OneSixLauncher.launch(OneSixLauncher.java:186) ~[NewLaunch.jar:?]
+	at org.polymc.EntryPoint.listen(EntryPoint.java:144) ~[NewLaunch.jar:?]
+	at org.polymc.EntryPoint.main(EntryPoint.java:74) ~[NewLaunch.jar:?]
+[21:45:28] [Worker-Main-5/WARN]: Texture watching:item/renders/items/iron_pickaxe with size 8x8 limits mip level from 4 to 3
+[21:45:28] [Worker-Main-5/WARN]: Texture cobblemonarmors:item/team_aqua_reference with size 1159x1280 limits mip level from 3 to 0
+[21:45:28] [Worker-Main-5/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
+[21:45:30] [Render thread/WARN]: Patched fract(worldpos.y + 0.001) to fract(worldpos.y + 0.01) to fix waving water disconnecting from other water blocks; See https://github.com/IrisShaders/Iris/issues/509
+[21:45:30] [Render thread/WARN]: Patched fract(worldpos.y + 0.001) to fract(worldpos.y + 0.01) to fix waving water disconnecting from other water blocks; See https://github.com/IrisShaders/Iris/issues/509
+[21:45:30] [Render thread/WARN]: Patched fract(worldpos.y + 0.001) to fract(worldpos.y + 0.01) to fix waving water disconnecting from other water blocks; See https://github.com/IrisShaders/Iris/issues/509
+[21:45:30] [Render thread/WARN]: Patched fract(worldpos.y + 0.001) to fract(worldpos.y + 0.01) to fix waving water disconnecting from other water blocks; See https://github.com/IrisShaders/Iris/issues/509
+[21:45:30] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'cobblefossil:blockstates/fossilizer_bottom.json' missing model for variant: 'cobblefossil:fossilizer_bottom#'
+[21:45:30] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'cobblefossil:blockstates/fossilizer_top.json' missing model for variant: 'cobblefossil:fossilizer_top#'
+[21:45:30] [Render thread/ERROR]: [Bedrockify] method invocation failed into "net.coderbot.iris.Iris::getCurrentPack()", provided by the mod "iris".
+java.lang.ClassNotFoundException: net.coderbot.iris.Iris
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:226) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.15.11.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:383) ~[?:?]
+	at java.lang.Class.forName(Class.java:376) ~[?:?]
+	at me.juancarloscp52.bedrockify.client.features.bedrockShading.BedrockSunGlareShading.fetchShaderStateInternal(BedrockSunGlareShading.java:155) ~[bedrockify-1.9.1+mc1.20.jar:?]
+	at me.juancarloscp52.bedrockify.client.features.bedrockShading.BedrockSunGlareShading.reloadCustomShaderState(BedrockSunGlareShading.java:118) ~[bedrockify-1.9.1+mc1.20.jar:?]
+	at net.minecraft.class_761.handler$zjb000$bedrockify$reloadWorldRendererCallback(class_761.java:5946) ~[client-intermediary.jar:?]
+	at net.minecraft.class_761.method_3279(class_761.java) ~[client-intermediary.jar:?]
+	at net.irisshaders.iris.pipeline.PipelineManager.preparePipeline(PipelineManager.java:38) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at net.irisshaders.iris.Iris.onLoadingComplete(Iris.java:138) ~[iris-1.7.2+mc1.20.1.jar:?]
+	at net.minecraft.class_442.handler$dbf000$iris$firstInit(class_442.java:2023) ~[client-intermediary.jar:?]
+	at net.minecraft.class_442.method_25426(class_442.java:156) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25423(class_437.java:297) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1507(class_310.java:1080) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_51251(class_310.java:690) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:674) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:211) ~[minecraft-1.20.1-client.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.11.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at org.polymc.impl.OneSixLauncher.invokeMain(OneSixLauncher.java:104) ~[NewLaunch.jar:?]
+	at org.polymc.impl.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:176) ~[NewLaunch.jar:?]
+	at org.polymc.impl.OneSixLauncher.launch(OneSixLauncher.java:186) ~[NewLaunch.jar:?]
+	at org.polymc.EntryPoint.listen(EntryPoint.java:144) ~[NewLaunch.jar:?]
+	at org.polymc.EntryPoint.main(EntryPoint.java:74) ~[NewLaunch.jar:?]
+[21:45:30] [Render thread/WARN]: [Bedrockify] Shader mod is present, but cannot determine the shader state. BedrockIfy Sun Glare Shading is now disabled.
+[21:45:30] [Render thread/INFO]: Cached all modded block culling states
+[21:45:31] [DefaultDispatcher-worker-2/INFO]: Connected to Discord as kewz.
+[21:45:31] [Render thread/ERROR]: Registry 'terraform:boat' was empty after loading
+[21:45:31] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[21:45:31] [Render thread/INFO]: New world map region cache hash code: -1102379605
+[21:45:31] [Render thread/INFO]: Registered player tracker system: map_synced
+[21:45:31] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[21:45:31] [Render thread/INFO]: Registered player tracker system: minimap_synced
+[21:45:31] [Render thread/INFO]: No Optifine!
+[21:45:31] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
+[21:45:31] [Render thread/INFO]: Xaero's World Map: Iris found!
+[21:45:32] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[21:45:32] [Render thread/INFO]: Registered player tracker system: minimap_synced
+[21:45:32] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[21:45:32] [Render thread/INFO]: No Optifine!
+[21:45:32] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[21:45:32] [Render thread/INFO]: Xaero's Minimap: Iris found!
+[21:45:33] [Worker-Main-8/INFO]: [citresewn] Linking baked models to item CITs...
+[21:45:34] [Render thread/WARN]: Skipped language file: cobblemon:lang/en_us.json (com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 9 column 7 path $.cobblemon.species.galardarmanitanzen.desc2)
+[21:45:34] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[21:45:34] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[21:45:34] [Render thread/WARN]: Missing sound for event: cobblemon:pokemon.evolving
+[21:45:34] [Render thread/WARN]: Missing sound for event: minecraft:music.end.the_end
+[21:45:34] [Render thread/WARN]: Missing sound for event: minecraft:music.end.end_highlands
+[21:45:34] [Render thread/WARN]: Missing sound for event: minecraft:music.end.end_midlands
+[21:45:34] [Render thread/WARN]: Missing sound for event: minecraft:music.end.small_end_islands
+[21:45:34] [Render thread/WARN]: Missing sound for event: minecraft:music.end.end_barrens
+[21:45:34] [Render thread/WARN]: Missing sound for event: minecraft:music.nether
+[21:45:34] [Render thread/WARN]: Missing sound for event: minecraft:music.misc.flying
+[21:45:34] [Render thread/WARN]: Missing sound for event: minecraft:music.misc.riding
+[21:45:34] [Render thread/WARN]: Missing sound for event: minecraft:music.misc.night
+[21:45:34] [Render thread/WARN]: Missing sound for event: minecraft:music.misc.rain
+[21:45:34] [Render thread/WARN]: Missing sound for event: minecraft:music.misc.thunder
+[21:45:34] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (3- Razer Nari Essential)
+[21:45:34] [Render thread/INFO]: Sound engine started
+[21:45:34] [Render thread/INFO]: [FANCYMENU] Reloading AudioResourceHandler after Minecraft SoundEngine reload..
+[21:45:34] [Render thread/INFO]: Created: 4096x2048x0 minecraft:textures/atlas/blocks.png-atlas
+[21:45:34] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/signs.png-atlas
+[21:45:34] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:45:34] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:45:34] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[21:45:34] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:45:34] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[21:45:34] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:45:34] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:45:34] [Render thread/INFO]: Instancing error handler class gg.essential.mixins.MixinErrorHandler
+[21:45:34] [Render thread/WARN]: Mixin apply for mod faster_entity_animations failed fastanim.mixins.json:ParrotEntityModelMixin from mod faster_entity_animations -> net.minecraft.class_584: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException Invalid descriptor on fastanim.mixins.json:ParrotEntityModelMixin from mod faster_entity_animations->@Inject::setAngles(Lnet/minecraft/class_584$class_585;IFFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V! Expected (Lnet/minecraft/class_1453;FFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V but found (Lnet/minecraft/class_584$class_585;IFFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V [ -> Inject -> fastanim.mixins.json:ParrotEntityModelMixin from mod faster_entity_animations->@Inject::setAngles(Lnet/minecraft/class_584$class_585;IFFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V]
+org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Invalid descriptor on fastanim.mixins.json:ParrotEntityModelMixin from mod faster_entity_animations->@Inject::setAngles(Lnet/minecraft/class_584$class_585;IFFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V! Expected (Lnet/minecraft/class_1453;FFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V but found (Lnet/minecraft/class_584$class_585;IFFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V [ -> Inject -> fastanim.mixins.json:ParrotEntityModelMixin from mod faster_entity_animations->@Inject::setAngles(Lnet/minecraft/class_584$class_585;IFFFFFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V]
+	at org.spongepowered.asm.mixin.injection.callback.CallbackInjector.inject(CallbackInjector.java:564) ~[sponge-mixin-0.13.3+mixin.0.8.5.jar:0.13.3+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.injection.callback.CallbackInjector.inject(CallbackInjector.java:494) ~[sponge-mixin-0.13.3+mixin.0.8.5.jar:0.13.3+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.injection.code.Injector.inject(Injector.java:277) ~[sponge-mixin-0.13.3+mixin.0.8.5.jar:0.13.3+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.inject(InjectionInfo.java:445) ~[sponge-mixin-0.13.3+mixin.0.8.5.jar:0.13.3+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1377) ~[sponge-mixin-0.13.3+mixin.0.8.5.jar:0.13.3+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1062) ~[sponge-mixin-0.13.3+mixin.0.8.5.jar:0.13.3+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:402) ~[sponge-mixin-0.13.3+mixin.0.8.5.jar:0.13.3+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327) ~[sponge-mixin-0.13.3+mixin.0.8.5.jar:0.13.3+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:422) ~[sponge-mixin-0.13.3+mixin.0.8.5.jar:0.13.3+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.13.3+mixin.0.8.5.jar:0.13.3+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.13.3+mixin.0.8.5.jar:0.13.3+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.13.3+mixin.0.8.5.jar:0.13.3+mixin.0.8.5]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.13.3+mixin.0.8.5.jar:0.13.3+mixin.0.8.5]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.15.11.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+	at net.minecraft.class_5600.method_32073(class_5600.java:215) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5599.method_14491(class_5599.java:24) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4013.method_29490(class_4013.java:15) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1175) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:802) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:250) ~[minecraft-1.20.1-client.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.11.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at org.polymc.impl.OneSixLauncher.invokeMain(OneSixLauncher.java:104) ~[NewLaunch.jar:?]
+	at org.polymc.impl.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:176) ~[NewLaunch.jar:?]
+	at org.polymc.impl.OneSixLauncher.launch(OneSixLauncher.java:186) ~[NewLaunch.jar:?]
+	at org.polymc.EntryPoint.listen(EntryPoint.java:144) ~[NewLaunch.jar:?]
+	at org.polymc.EntryPoint.main(EntryPoint.java:74) ~[NewLaunch.jar:?]
+[21:45:34] [Render thread/WARN]: @Final field field_3560:[Lnet/minecraft/class_630; in fastanim.mixins.json:SilverfishEntityModelMixin from mod faster_entity_animations should be final
+[21:45:34] [Render thread/WARN]: @Final field field_3557:[Lnet/minecraft/class_630; in fastanim.mixins.json:SilverfishEntityModelMixin from mod faster_entity_animations should be final
+[21:45:35] [Render thread/WARN]: @Final field field_38904:Lnet/minecraft/class_759; in weaponmaster_ydm.mixins.json:PlayerItemInHandLayerMixin from mod weaponmaster_ydm should be final
+[21:45:35] [Render thread/INFO]: [STDOUT]: WeaponMaster Feature is OK!
+[21:45:35] [Render thread/INFO]: [STDOUT]: WeaponMaster Feature is OK!
+[21:45:35] [Render thread/WARN]: Shader cobblemon:particle_add could not find sampler named Sampler2 in the specified shader program.
+[21:45:35] [Render thread/WARN]: Shader cobblemon:particle_cutout could not find sampler named Sampler2 in the specified shader program.
+[21:45:35] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[21:45:36] [Render thread/INFO]: Created: 2048x2048x0 minecraft:textures/atlas/particles.png-atlas
+[21:45:36] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/paintings.png-atlas
+[21:45:36] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:45:36] [Render thread/INFO]: [FANCYMENU] Reloading resources..
+[21:45:36] [Render thread/INFO]: [FANCYMENU] Pre-loading resources..
+[21:45:36] [Render thread/INFO]: Created: 128x128x0 cobblemon:textures/atlas/berries.png-atlas
+[21:45:36] [Render thread/INFO]: Loading assets...
+[21:45:36] [Render thread/INFO]: Loading particle effects...
+[21:45:36] [Render thread/INFO]: Loaded 536 particle effects
+[21:45:36] [Render thread/INFO]: Loading animations...
+[21:45:39] [Render thread/INFO]: Loaded 6075 animations from 1004 animation groups
+[21:45:39] [Render thread/INFO]: Loading Pokémon models...
+[21:45:39] [Render thread/INFO]: Loaded 1161 Pokémon models.
+[21:45:41] [Render thread/INFO]: Loading Poké Ball models...
+[21:45:41] [Render thread/INFO]: Loaded 2 Poké Ball models.
+[21:45:41] [Render thread/INFO]: Loaded 71 berry models
+[21:45:41] [Render thread/INFO]: Loading Fossil Pokémon models...
+[21:45:41] [Render thread/INFO]: Loaded 20 Fossil Pokémon models.
+[21:45:41] [Render thread/INFO]: Loading Block Entity models...
+[21:45:41] [Render thread/INFO]: Loaded 1 Block Entity models.
+[21:45:41] [Render thread/INFO]: Loading Generic models...
+[21:45:41] [Render thread/INFO]: Loaded 1 Generic models.
+[21:45:41] [Render thread/INFO]: Loaded 0 misc models
+[21:45:41] [Render thread/INFO]: Loaded assets
+[21:45:42] [Render thread/INFO]: BookContentResourceListenerLoader preloaded 623 jsons
+[21:45:42] [Render thread/INFO]: Data pack initialized: fabric
+[21:45:42] [Render thread/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resourcepacks\GlitchDex-1.0.zip
+[21:45:42] [Render thread/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resourcepacks\FreshMotion[V.0.2](Cobblemon) (1).zip
+[21:45:42] [Render thread/INFO]: Data pack initialized: file/RCTremega.zip
+[21:45:42] [Render thread/INFO]: Data pack initialized: fabric
+[21:45:42] [Render thread/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resourcepacks\GlitchDex-1.0.zip
+[21:45:42] [Render thread/WARN]: Ignored non-lowercase namespace: .DS_Store in C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resourcepacks\FreshMotion[V.0.2](Cobblemon) (1).zip
+[21:45:42] [Render thread/INFO]: Data pack initialized: file/RCTremega.zip
+[21:45:43] [Render thread/INFO]: [Fabric Seasons] Successfully loaded 17 custom grass colors.
+[21:45:43] [Render thread/INFO]: [Fabric Seasons] Successfully loaded 10 custom foliage colors.
+[21:45:43] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[21:45:43] [Render thread/INFO]: Successfully reloaded the world map shaders!
+[21:45:43] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/third-person-hud.webp'
+[21:45:43] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/third-person-view.webp'
+[21:45:43] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/zoom-hand.webp'
+[21:45:43] [Render thread/INFO]: Successfully loaded image 'zoomify:textures/demo/zoom-world.webp'
+[21:45:43] [Render thread/INFO]: Successfully loaded image 'watching:textures/font/watching_ui/crash_sequence/title.webp'
+[21:45:43] [Render thread/INFO]: Successfully loaded image 'cobblemon:textures/particle/shiny_send_out.gif'
+[21:45:43] [Render thread/INFO]: [FANCYMENU] Updating animation sizes..
+[21:45:43] [Render thread/INFO]: [FANCYMENU] Minecraft resource reload: FINISHED
+[21:45:43] [Render thread/ERROR]: [FANCYMENU] Failed to read texture from file! File not found: C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resources\cm_textures\exit_button.png
+[21:45:43] [Render thread/ERROR]: [FANCYMENU] Failed to read texture from file! File not found: C:\Users\kenne\AppData\Roaming\PolyMC\instances\Cobblemon Official Modpack [Fabric]\.minecraft\resources\cm_textures\exit_hover.png
+[21:45:44] [Render thread/WARN]: Shader cabb2374eda405e66b897908637abd1da5deac52 could not find uniform named subpixel_amount in the specified shader program.
+[21:45:45] [Render thread/ERROR]: Signature is missing from Property textures
+[21:46:52] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: gg.essential.gui.friends.SocialMenu
+[21:46:55] [Render thread/ERROR]: Signature is missing from Property textures
+[21:46:56] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: com.terraformersmc.modmenu.gui.ModsScreen
+[21:46:56] [Render thread/INFO]: Generating YACL screen
+[21:46:57] [Render thread/INFO]: Generating YACL screen
+[21:46:57] [Render thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[21:46:57] [Render thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 19 color keys for mod shulkerboxtooltip
+[21:46:57] [Render thread/INFO]: Generating YACL screen
+[21:46:57] [Render thread/ERROR]: Invalid mod icon for icon source bwncr: assets/modid/icon.png
+java.nio.file.NoSuchFileException: /assets/modid/icon.png
+	at jdk.nio.zipfs.ZipFileSystem.newInputStream(ZipFileSystem.java:861) ~[jdk.zipfs:?]
+	at jdk.nio.zipfs.ZipPath.newInputStream(ZipPath.java:749) ~[jdk.zipfs:?]
+	at jdk.nio.zipfs.ZipFileSystemProvider.newInputStream(ZipFileSystemProvider.java:261) ~[jdk.zipfs:?]
+	at java.nio.file.Files.newInputStream(Files.java:160) ~[?:?]
+	at com.terraformersmc.modmenu.util.mod.fabric.FabricIconHandler.createIcon(FabricIconHandler.java:34) ~[modmenu-7.2.2.jar:?]
+	at com.terraformersmc.modmenu.util.mod.fabric.FabricMod.getIcon(FabricMod.java:161) ~[modmenu-7.2.2.jar:?]
+	at com.terraformersmc.modmenu.gui.widget.entries.ModListEntry.getIconTexture(ModListEntry.java:130) ~[modmenu-7.2.2.jar:?]
+	at com.terraformersmc.modmenu.gui.widget.entries.ModListEntry.method_25343(ModListEntry.java:59) ~[modmenu-7.2.2.jar:?]
+	at com.terraformersmc.modmenu.gui.widget.ModListWidget.method_25311(ModListWidget.java:241) ~[modmenu-7.2.2.jar:?]
+	at net.minecraft.class_350.method_25394(class_350.java:227) ~[client-intermediary.jar:?]
+	at com.terraformersmc.modmenu.gui.ModsScreen.method_25394(ModsScreen.java:285) ~[modmenu-7.2.2.jar:?]
+	at net.minecraft.class_437.method_47413(class_437.java:110) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.mixinextras$bridge$method_47413$271(class_757.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.wrapOperation$cgi000$fancymenu$wrapRenderScreenFancyMenu(class_757.java:4607) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.mixinextras$bridge$wrapOperation$cgi000$fancymenu$wrapRenderScreenFancyMenu$272(class_757.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.wrapOperation$dgp000$konkrete$wrapRenderScreenKonkrete(class_757.java:7128) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:945) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1219) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:802) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:250) ~[minecraft-1.20.1-client.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.11.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at org.polymc.impl.OneSixLauncher.invokeMain(OneSixLauncher.java:104) ~[NewLaunch.jar:?]
+	at org.polymc.impl.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:176) ~[NewLaunch.jar:?]
+	at org.polymc.impl.OneSixLauncher.launch(OneSixLauncher.java:186) ~[NewLaunch.jar:?]
+	at org.polymc.EntryPoint.listen(EntryPoint.java:144) ~[NewLaunch.jar:?]
+	at org.polymc.EntryPoint.main(EntryPoint.java:74) ~[NewLaunch.jar:?]
+[21:46:57] [Render thread/WARN]: Warning! Mod bwncr has a broken icon, loading default icon
+[21:46:58] [Render thread/ERROR]: Signature is missing from Property textures
+[21:46:59] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: options_screen
+[21:47:00] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: pack_selection_screen
+[21:47:00] [Render thread/WARN]: Missing metadata in pack file/CobbleAether.zip
+[21:47:06] [Render thread/ERROR]: Signature is missing from Property textures
+[21:47:07] [Render thread/INFO]: Stopping!
+[21:47:07] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
+[21:47:07] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: progress_screen
+[21:47:07] [CraftPresence/INFO]: Shutting down CraftPresence...

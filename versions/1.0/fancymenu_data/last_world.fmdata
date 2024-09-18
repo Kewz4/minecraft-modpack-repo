@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/kenne/AppData/Roaming/PolyMC/instances/Cobblemon Official Modpack [Fabric]/.minecraft/saves/New World
+}
+
